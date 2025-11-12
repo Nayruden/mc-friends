@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".editorconfig"
-hash = "95f85e7c66df2507becab423103714fd575cfc148adfa6a6e04489048b946b20"
-
-[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "b3abe4c54a55d9ff6072a783745562dca78eeada24241314b566a52830cfe670"
 metafile = true
