@@ -1,0 +1,13 @@
+name = "Medieval Buildings [Nether Edition]"
+filename = "medieval_buildings_nether_edition-1.21.1-1.0.1-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9zKI9xOD/versions/wKQCOGJH/medieval_buildings_nether_edition-1.21.1-1.0.1-neoforge.jar"
+hash-format = "sha512"
+hash = "1d9f252f9d551de99406dfce1172526d6d34e992e5eca38d0b40cc029ec1570371f034b1101a82c6e397bec34a35f3e16c1c10918c8bb330d1fbf5460a0f02b0"
+
+[update]
+[update.modrinth]
+mod-id = "9zKI9xOD"
+version = "wKQCOGJH"

@@ -1,0 +1,13 @@
+name = "GG"
+author = "Nayruden"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "50eb86a7f6b6e91ad49178483b9823a8ac7b26b700257f10243d907214f0eb52"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.214"

@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Strongholds Compat Datapack"
+filename = "Repurposed_Structures-Better_Strongholds_v8.zip"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "ef65d081ad34f6a25a7ba7c4f771c66787683e2a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6037028
+project-id = 547822

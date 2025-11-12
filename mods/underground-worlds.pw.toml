@@ -1,0 +1,13 @@
+name = "Underground Worlds"
+filename = "undergroundworlds-neoforge-21.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g9fDJQZe/versions/2oFutdYP/undergroundworlds-neoforge-21.1.0.jar"
+hash-format = "sha512"
+hash = "8070e5236a448b481e61bfd59de2015c53cab90601ed70b1de914b68b1fa114fe9329edb6cd45f1992ed4a158296f17d4f3c6ae52fc0a0eefbaf8a14d3a38a04"
+
+[update]
+[update.modrinth]
+mod-id = "g9fDJQZe"
+version = "2oFutdYP"

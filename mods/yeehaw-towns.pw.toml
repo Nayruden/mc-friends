@@ -1,0 +1,13 @@
+name = "Yeehaw Towns!"
+filename = "YeehawTowns-1.0.3-1.21.x-neoforge.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Cz0fHRKU/versions/10SAkmlL/YeehawTowns-1.0.3-1.21.x-neoforge.jar"
+hash-format = "sha512"
+hash = "78c5c542b1470aa8c8597db5a035f1c4ca41c6edddb8064b51175023735019607b2b694aa4c855cd28a4db811b9daa4edb2cf53264b62691afe09f8c16593c83"
+
+[update]
+[update.modrinth]
+mod-id = "Cz0fHRKU"
+version = "10SAkmlL"
