@@ -191,16 +191,6 @@ hash = "ccf9e64814aea3a7c29689a9f2509002976428bdb798119cb32cdbd655456a07"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "c27af69a7c64206beff3e59c671934d4eb9a3dc65fd589609c5e6f6bb60421bb"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
-metafile = true
-
-[[files]]
 file = "mods/controlify.pw.toml"
 hash = "4fa2b82a3e4a5f63fc85f217110056bbb737a17f79cb0d5042e0ae903cb393d5"
 metafile = true
@@ -408,11 +398,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
 metafile = true
 
 [[files]]
