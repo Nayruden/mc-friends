@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "b3abe4c54a55d9ff6072a783745562dca78eeada24241314b566a52830cfe670"
 metafile = true
@@ -186,8 +191,23 @@ hash = "ccf9e64814aea3a7c29689a9f2509002976428bdb798119cb32cdbd655456a07"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "c27af69a7c64206beff3e59c671934d4eb9a3dc65fd589609c5e6f6bb60421bb"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
+metafile = true
+
+[[files]]
 file = "mods/controlify.pw.toml"
 hash = "4fa2b82a3e4a5f63fc85f217110056bbb737a17f79cb0d5042e0ae903cb393d5"
+metafile = true
+
+[[files]]
+file = "mods/cool-rain.pw.toml"
+hash = "e8bfe6030b00a3b72b44359ed1e80f956be308b9c6b371619f3776aef33c3ff0"
 metafile = true
 
 [[files]]
@@ -361,8 +381,18 @@ hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "6b5fa0d3a684cf6cf33f1399c2b4bdbee34dbe362548808315b488ac172e2ada"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "3443f52ef7c1f80ae1cedf459b23c38ac78dbe547cf2cc047e62d0cb2331c808"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "f48d8d1f04f68dc8e6cac4ed4768790fa7ab35ee23c2aaed5391d862c6043eab"
 metafile = true
 
 [[files]]
@@ -383,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "ec1bd5b80399287ca33a113086bee9d5697b7e673c9f593e5a1aeca4c9bad4c9"
 metafile = true
 
 [[files]]
@@ -496,8 +531,18 @@ hash = "1a9ec5beaba1be3151b8710db2bfab90c2063a4dafaf2720336852245a145cc4"
 metafile = true
 
 [[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
+metafile = true
+
+[[files]]
 file = "mods/l_enders-cataclysm.pw.toml"
 hash = "0ba45c4cf0d0c605841b708a23417668e1ee4c9860a1d4572b122d6348c113ed"
+metafile = true
+
+[[files]]
+file = "mods/libjf.pw.toml"
+hash = "bad11a528280073983e5ee82c23d99a633974c8057e5171bf6aa9cce89e00c4b"
 metafile = true
 
 [[files]]
@@ -736,6 +781,16 @@ hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "95886f73121a490ab360dac8e99f260fb0346048e86475c658ed44ddd399f09e"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "d610540ab8d81af8b6aa292aed319c7cb7bb60c55b56ecf8b2af889e4ca327a3"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "b30be236c43ca7de1ad171201be924650f026ca0970fe0faddac239f2acfc26a"
 metafile = true
@@ -773,6 +828,16 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/respackopts.pw.toml"
+hash = "a7a0bc3eb9b2b4044f683c338546ccbe5e03f7151985dd518252296737ae78d5"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "030c615d6b35ec70f4fbe8cb782512deb05362378ab6ca838874b4490343bc7b"
 metafile = true
 
 [[files]]
@@ -856,6 +921,11 @@ hash = "eab08b2dbb1f940da66339c914bee02f24d15419d6345f9bee436755170409c8"
 metafile = true
 
 [[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "46d28a5f6168b55be612a6f5d616dd0a28bb33f8bf2c6b23c30c0bae17e8ae3c"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -911,6 +981,11 @@ hash = "acedf6b7dbf358351a251cd630e691750890753847819f4139312dcef6b1a6f1"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+metafile = true
+
+[[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "cc194bc3b6ca662987dc423efcfe80cace098a79136d0e9a757b17667b3dab6a"
 metafile = true
@@ -943,6 +1018,11 @@ metafile = true
 [[files]]
 file = "mods/twilight-treehouses.pw.toml"
 hash = "3b346c4a05f56c5af8e41e02ae1512fbbe6418b27270fd850cfff2fd583dcb1c"
+metafile = true
+
+[[files]]
+file = "mods/twod_projectiles.pw.toml"
+hash = "ed768791da7f6197757f220af1df2c9d67160a51afe5acb444353e7a7be9b0c5"
 metafile = true
 
 [[files]]
@@ -1083,6 +1163,41 @@ metafile = true
 [[files]]
 file = "repurposed-structures-illager-invasion-compat.pw.toml"
 hash = "873734afc51483064b30a945b5523e097ab2c99109aae4e0df7fa93133a2569e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-3d-potions.pw.toml"
+hash = "1aeaed399873a70d09da260738d195cd9c98a5d57f561aee1feba5ec6dec44c1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/als-creepers-revamped.pw.toml"
+hash = "be59098f4b95570b3992b72d342c697a3e1be7b018d49d5bf67957aca041ee56"
+metafile = true
+
+[[files]]
+file = "resourcepacks/blockier-goat-horn.pw.toml"
+hash = "c37e5e523342078805bf8810632802af12670b8d25d4f835373953cbc7222feb"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detailed-animations.pw.toml"
+hash = "11ca7ee74121279438d839d89d1507f05db78cac8d1a39faf7311283d36e2536"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "c35f41d09504478ac9d85d9a939460511c50676f5ea3a19537a2ac204281506e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-skeleton-physics.pw.toml"
+hash = "53ca6e2a97836a999c482c8a1cfdaa255547f7eb4c9dc33848f43075f18ded76"
 metafile = true
 
 [[files]]
