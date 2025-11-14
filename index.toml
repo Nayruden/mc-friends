@@ -702,7 +702,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "de1249e0d68dbc6f989a8bd5e7550003858b1eff9e22aabc018a0b830eca48fd"
+hash = "b50c582b469e6a8a6d927999b47cb54990454221a78107904b3fb65f9517ee95"
 metafile = true
 
 [[files]]
@@ -752,7 +752,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "ec36bc71d2ac55e7e596e88ceed31e0e1dafcc20fd55e4771aa12deb84a086f7"
+hash = "5fc6719951cbe80a528ac6de0296998decac6bb821198a39943edecbf6dd0867"
 metafile = true
 
 [[files]]
@@ -892,7 +892,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "3b25ea7af38b76225cc8ac78944a998e457cab2b56260d801fdb71efef62dfdd"
+hash = "e2615312dcf7aaa1a831a76a3bd215dd37c03bf7ba48a7aeecc5f886c5c62888"
 metafile = true
 
 [[files]]
