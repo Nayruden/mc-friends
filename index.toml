@@ -816,11 +816,6 @@ hash = "a927a3ce4e9db297c0b423232b91fab774fdf7a9ea19df93cc9f3b873b34a616"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "030c615d6b35ec70f4fbe8cb782512deb05362378ab6ca838874b4490343bc7b"
-metafile = true
-
-[[files]]
 file = "mods/servuxforged.pw.toml"
 hash = "5dc91a6bad9fe0f0d7a828f6d00b08e6c206d0e094089ae26e619b0978ae7adb"
 metafile = true
