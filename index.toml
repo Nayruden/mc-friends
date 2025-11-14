@@ -146,6 +146,11 @@ hash = "079f836c6f6fb2d213320c60ff6497eb8bcc79c7c70519d21b7f6a4390534752"
 metafile = true
 
 [[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
+metafile = true
+
+[[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "479dab388743fb59d3399d2d87a0a7dc0819a4184b74f734fa9cc1eecdd6f6f6"
 metafile = true
