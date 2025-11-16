@@ -11,6 +11,11 @@ hash = "b3abe4c54a55d9ff6072a783745562dca78eeada24241314b566a52830cfe670"
 metafile = true
 
 [[files]]
+file = "mods/adorabuild-structures.pw.toml"
+hash = "b3c442f8454615227f1bddfbc84d0eb5af191ff2a2a4526804f9446a10dc5129"
+metafile = true
+
+[[files]]
 file = "mods/advancements-reloaded.pw.toml"
 hash = "35709fe6effd2ae0200f21b662448cb602872ea8af8858d2f3b2826df114d75a"
 metafile = true
@@ -31,6 +36,11 @@ hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
 
 [[files]]
+file = "mods/ancient-structures.pw.toml"
+hash = "50ddb1c4af05ab01962567d17e70f46ae7e317dface207231fa4dbca79116114"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "3213c881d019cd8f952f738c10d5a950ee52ff0084750b81f656a58a4a78515d"
 metafile = true
@@ -38,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/armor-of-the-ages.pw.toml"
+hash = "1ce7918368affe28a5d45474eb19d50e08323faf680c9fea5f3fca69d4c8e159"
 metafile = true
 
 [[files]]
@@ -88,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/better-modlist.pw.toml"
 hash = "5ebc1849da4c78f57b8f4cde4320d5409ea9244e372d50afc6362ee88d66dd50"
+metafile = true
+
+[[files]]
+file = "mods/better-village.pw.toml"
+hash = "70d6a7931439fe0fe8d517e89fcdc67d038affabbe3968fba9a95b4ac1f19da7"
 metafile = true
 
 [[files]]
@@ -153,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "479dab388743fb59d3399d2d87a0a7dc0819a4184b74f734fa9cc1eecdd6f6f6"
+metafile = true
+
+[[files]]
+file = "mods/cherry-grove-starter-house.pw.toml"
+hash = "0267533340e75c0fe1e23b3a82f98bb6b39c6c43f52d80b5f87865b399e9cfd4"
 metafile = true
 
 [[files]]
@@ -236,6 +261,11 @@ hash = "57db08df7b21c94fa9440c84f1553e1c5a2b249f3db12f0f3cf9b9733b49d746"
 metafile = true
 
 [[files]]
+file = "mods/dawn-of-time.pw.toml"
+hash = "b80ba09f8b13a9678d734d6ebe3c009c61f12b316246e3341bd7a23a52c0bd47"
+metafile = true
+
+[[files]]
 file = "mods/deep-aether.pw.toml"
 hash = "5e0f65ac9e6e260e213f3d9a6657cafdd35f509965b09404a8eb9ab55c3ffbec"
 metafile = true
@@ -273,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
 hash = "560677900d746ef9c35cb48d1e51dfc8abcc188b3d390fde1dc3458f9c800057"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
 metafile = true
 
 [[files]]
@@ -386,6 +421,16 @@ hash = "f48d8d1f04f68dc8e6cac4ed4768790fa7ab35ee23c2aaed5391d862c6043eab"
 metafile = true
 
 [[files]]
+file = "mods/epic-structures-villages.pw.toml"
+hash = "c4ea287d24b4f4bd4c5e63070282065cb8e576ceddb6441a9f4ea88daa3dee88"
+metafile = true
+
+[[files]]
+file = "mods/epic-structures-witch-huts.pw.toml"
+hash = "705ad88e39df2a1e4fb511e19db2a9208f2296215dc2eaf8382ff1896d0b3311"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "de5ea0b6d6c303af3788a178996c39f46d260cd15a86121b1246b3591913d256"
 metafile = true
@@ -418,6 +463,11 @@ metafile = true
 [[files]]
 file = "mods/formations.pw.toml"
 hash = "41ea41c71242b710df4768bdd0f3f2433c64600d2d1405472c01993bd7f5da25"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "35e72c6577b301ac850a959bce08ca1c8a68e58f7819191a61d20c7af536ee5d"
 metafile = true
 
 [[files]]
@@ -676,6 +726,11 @@ hash = "58020b79db83e23e241b662de7ba078e80acd4c36d3825c2a2848f99c4f0e32e"
 metafile = true
 
 [[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "f0c97c0212ddda5c012ba451a123d4b39e89f402cc70d38d31dc9098736ec07f"
+metafile = true
+
+[[files]]
 file = "mods/medieval-buildings-end-edition.pw.toml"
 hash = "58c8076a70e999983b7b2b13465f50e21037590c1b947b2d0648d8a5d6627955"
 metafile = true
@@ -703,6 +758,16 @@ metafile = true
 [[files]]
 file = "mods/minecolonies.pw.toml"
 hash = "b50c582b469e6a8a6d927999b47cb54990454221a78107904b3fb65f9517ee95"
+metafile = true
+
+[[files]]
+file = "mods/mingen.pw.toml"
+hash = "3e5928ff63b28e9346c71034758086a32b3691a6a9b9c26ead91347ffb160ca8"
+metafile = true
+
+[[files]]
+file = "mods/mmv-moogs-missing-villages.pw.toml"
+hash = "d62031d06050a4f271149c72b484a6fab05afc17845bdd044018c764ce243055"
 metafile = true
 
 [[files]]
@@ -798,6 +863,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "5a9dcbd1981e1dff0cef24186005c0235e983841e76c22f6ed7262c1ae8e30e5"
+metafile = true
+
+[[files]]
+file = "mods/registry-dump.pw.toml"
+hash = "fc02b6ed75e6415eebe851d7161313f5e454079bb1280db97dec9949883e6841"
 metafile = true
 
 [[files]]
@@ -906,6 +976,11 @@ hash = "46d28a5f6168b55be612a6f5d616dd0a28bb33f8bf2c6b23c30c0bae17e8ae3c"
 metafile = true
 
 [[files]]
+file = "mods/sunken-spires.pw.toml"
+hash = "45b5b3b45e1b601e814b01c6622ba806aa1c8aad20f3ef047d47f4259ffea9e0"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
 metafile = true
@@ -1008,6 +1083,16 @@ metafile = true
 [[files]]
 file = "mods/underground-worlds.pw.toml"
 hash = "2669710dbc5d4be319c9cd26a26efa0e138699c2113e8b6610f97d3a518a7278"
+metafile = true
+
+[[files]]
+file = "mods/unnamed-desert.pw.toml"
+hash = "a1fd868d7e139423b45e9c2c0850c7563ec0cd0628c66a9e41e4a2cae9924f14"
+metafile = true
+
+[[files]]
+file = "mods/unnamed-sea.pw.toml"
+hash = "147325d323fa6246e4c51cca1f6a3157a3fb9bfc22d83767cd74ff44861bfa81"
 metafile = true
 
 [[files]]
@@ -1178,6 +1263,21 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-skeleton-physics.pw.toml"
 hash = "53ca6e2a97836a999c482c8a1cfdaa255547f7eb4c9dc33848f43075f18ded76"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-block-transitions.pw.toml"
+hash = "e5f49f7a3b49f7a03f667c5c5ca43826e7abbfcc0a9fe2499af89b461fac0819"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-blocks.pw.toml"
+hash = "0e27eea95511f0914b8db1e75cfde84ca748251bc5d24c42dd9af38abd77afdc"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fusion-connected-glass.pw.toml"
+hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
 metafile = true
 
 [[files]]
