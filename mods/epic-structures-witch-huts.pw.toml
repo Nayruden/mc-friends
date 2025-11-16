@@ -1,6 +1,6 @@
 name = "Epic Structures: Witch Huts"
 filename = "Epic Witch Huts v1.1.0 (1.21+).jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/7KOwcKlK/versions/y5uqLiq6/Epic%20Witch%20Huts%20v1.1.0%20%281.21%2B%29.jar"

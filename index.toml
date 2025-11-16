@@ -187,12 +187,12 @@ metafile = true
 
 [[files]]
 file = "mods/epic-structures-villages.pw.toml"
-hash = "95ec7a02711808ad11d52a60e2172cfab5b8117731a8de54496344e6a10b59f2"
+hash = "c4ea287d24b4f4bd4c5e63070282065cb8e576ceddb6441a9f4ea88daa3dee88"
 metafile = true
 
 [[files]]
 file = "mods/epic-structures-witch-huts.pw.toml"
-hash = "8f0426e17818658909a7ec97eea2fe4a6c37e238eda8ac2ebb2042fcec0fe998"
+hash = "705ad88e39df2a1e4fb511e19db2a9208f2296215dc2eaf8382ff1896d0b3311"
 metafile = true
 
 [[files]]
