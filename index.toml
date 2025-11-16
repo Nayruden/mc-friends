@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/awesome-dungeon-edition-ocean.pw.toml"
-hash = "27522965dc076f62c479a548e9c5ac019d188339ce7e93eb1d2e6c886fc2e126"
+hash = "8e05dff9c6071655cf8cb4319c44fe7bf9b11cec956846e3236c81db28a9f32d"
 metafile = true
 
 [[files]]
@@ -132,52 +132,52 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
-hash = "8ae40badf720f28bd30d858ca8ee36796d5de3d756a09c2d68ad125310dc0e86"
+hash = "0a61218868f67bf0ecdc9463c0e932162f09627adaaf5791e7191ace3e2a40cc"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
-hash = "9dfd0fed96b96a2590b14acdab7cc7c7084c6c2b87358a9392cbe084cc090d82"
+hash = "3450d91922ee841907dc8a2c2df9521cc5f63bf8ca69527087cc8c2c9451e226"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-end-castle-standalone.pw.toml"
-hash = "5783a3100ae692f69a09bf71cb7fa43bb6942480b05351aec9b1d023e58f8ef6"
+hash = "778333a87b61cbcad7c307626d2764c5347fb204ee8fb3a8e96de75534258499"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
-hash = "2d21022c8b1b8bff8885fa88b5fed9393c710cdd67326a57ad65f8e6663ebe98"
+hash = "6d19dddfb651a51fb94f146aa3b020aaa1d94469a368e78f57e745766a4d92e4"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
-hash = "8cdd8809da23ab4c3c4dce1b4cef1b64180d0155c4dc3f8155090cee07130e23"
+hash = "ab0784d394d2ba6279ac632091aea31548cb1c05962cda524a36ac25869ba858"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
-hash = "81afd66aeeb3b36b1db6557dce2abb8e6e55f5d07e6a0f58e39a41578507a114"
+hash = "2558339dade0e6e608363cdf3b72d2348f68d1f70882f4b1044d30497e8e50e4"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml"
-hash = "642f5664fc095bd7ebfc3ad78089c7a2b15f32722fe71d1836c0a041ca368c0a"
+hash = "df30bc54a8efa228d50d8a2c12e2752d3d50d3023f691c97b7c154036d1bb649"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
-hash = "3e2d4f8727725e119c2839bfd063e10e7f6ef3ce2a8ea23322dff82513f90aab"
+hash = "bfeed9b89e4dff5a0f38e5cd7df0dee85a76db785574a2049a43b3f53a5cf42b"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml"
-hash = "aca88f77b02e09ab6335cd73cc0ec7597f7b17eee673d0c2f27439a7a7e7468d"
+hash = "da7d642b271e913765b14350054bcd0ce3b735bc3bd983b0a96377f7ec8dbb57"
 metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
-hash = "4249e3227f1ab027e4e9ab8e41f07d282d6cecadc1d08fae3d062f7f9c45288f"
+hash = "f5f0c6eb7dac137337317f104664381a864465e912087195505e3abb3b7b79bc"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/explorify.pw.toml"
-hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
+hash = "c777d80ae30744d7d08babc5ed5bb6fcc7e8b979eeb1d3f52fe1ca00c0036b8c"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/incendium.pw.toml"
-hash = "c85d73cc859ddcaab3cf7bf11c5659741f3cca82b5df4244fa319eb4c29eaa74"
+hash = "46b9d33dcb834d415bce5a41b649363379563f1003c6021da9cd6d454c10e0e0"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/philips-ruins.pw.toml"
-hash = "24cba6e66cd64126e99bc8d6433859afd7805498f8c9f43c433b33a4963709ff"
+hash = "ed28427f76a5ea4d7ec604057bbd65ed6ea1ca1e0198c74553bf0e3dbbfb618b"
 metafile = true
 
 [[files]]
@@ -357,12 +357,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "6d613a887d3570712d21bcc1407ae6b6b95122d25fa10d182cc5c5d7caa2a178"
+hash = "5b59709d06cbe4ee6fb2f7dcca52d70d27315e918ec4f78db6b8893fa8c9ab72"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "187174a5f6a8a8f49fcc3baae7bf8c673829bac1a4bd1023ce0723ab17fdf1d7"
+hash = "9a107159ef78af626eec4f8455600c86e3df957e74e5950819f0c44dcb5beb33"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/tectonic.pw.toml"
-hash = "2226fd6f55dae108563d51495b90b6980212283b1c551967c4595e82428d261d"
+hash = "a62ccb246536065446fe8f9bb92e4815f4d1c80040c73a8014a26691de1b0e3d"
 metafile = true
 
 [[files]]
@@ -387,7 +387,7 @@ metafile = true
 
 [[files]]
 file = "mods/terralith.pw.toml"
-hash = "831c41448bccb5bb8f1f68a76321e7da7988b218e9694f432d952f98ac184640"
+hash = "e22d574139b2e480775ddf3258f879679d534ac1f6ffe68e64ff4408e024e6c7"
 metafile = true
 
 [[files]]
