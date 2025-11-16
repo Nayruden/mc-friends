@@ -1,13 +1,13 @@
 name = "Awesome Dungeon Nether"
-filename = "awesomedungeonnether-forge-1.21.1-3.1.1.jar"
+filename = "awesomedungeonnether-fabric-1.21.8-3.1.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/gW1httFP/versions/Fdr9Bixo/awesomedungeonnether-forge-1.21.1-3.1.1.jar"
+url = "https://cdn.modrinth.com/data/gW1httFP/versions/rjLOcEWN/awesomedungeonnether-fabric-1.21.8-3.1.1.jar"
 hash-format = "sha512"
-hash = "d81b53b786f2decf468bc9279e8162a008a4b9ca06fc6bb93af6833327a143e3ef768eca814e4010e9860d43d03d633f08bafd316d725ffc089c5f097572a011"
+hash = "e652a5a99d1738e14b86cb13cc8fe062fbb5e3c8864411f896e5a6bef98d182c5dce4dca1c98e8f61a84dadeb4f05fe766464ca54caeeedcd76ec2b8e63e6b62"
 
 [update]
 [update.modrinth]
 mod-id = "gW1httFP"
-version = "Fdr9Bixo"
+version = "rjLOcEWN"

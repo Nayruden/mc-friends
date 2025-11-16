@@ -1,13 +1,13 @@
 name = "Awesome Dungeon"
-filename = "awesomedungeon-neoforge-1.21.1-3.2.0.jar"
+filename = "awesomedungeon-fabric-1.21.8-3.2.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ptzsjBKT/versions/5vFWzKiI/awesomedungeon-neoforge-1.21.1-3.2.0.jar"
+url = "https://cdn.modrinth.com/data/ptzsjBKT/versions/QlPE5yt1/awesomedungeon-fabric-1.21.8-3.2.0.jar"
 hash-format = "sha512"
-hash = "e73c43c038ad81d6db51c534c695b49fb646ad27bfa307ed73db5743bca60f14a863d0d3a5b0b936e82325c5fc6a28567e8389af7f40b02519cfebd7c759b372"
+hash = "4e097fb0935e54b59476df7ed7ef9f1ec3e344c8c2114b80907b399e1d1ba6df7df72c6d0ef5848e07e8411c8ae97a3f2ba640951bfc6cdfb45ec77beec26980"
 
 [update]
 [update.modrinth]
 mod-id = "ptzsjBKT"
-version = "5vFWzKiI"
+version = "QlPE5yt1"

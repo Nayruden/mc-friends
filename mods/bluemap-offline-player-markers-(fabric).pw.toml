@@ -1,0 +1,13 @@
+name = "BlueMap Offline Player Markers (Fabric)"
+filename = "bluemap-offline-player-markers-3.0.5-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4h9u0qdE/versions/w8iZe7gX/bluemap-offline-player-markers-3.0.5-fabric.jar"
+hash-format = "sha512"
+hash = "60656ddb0e8b179f7dc0ac41aad2b1aeb9bce0854f660d2350e35f4bd1a067794b87f17c217be30f53a8fc3a865dff41d02937a1089325a86744b451d676fba5"
+
+[update]
+[update.modrinth]
+mod-id = "4h9u0qdE"
+version = "w8iZe7gX"

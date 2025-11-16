@@ -3,11 +3,11 @@ filename = "auto-harvest-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sOrP6C8G/versions/PMPPvvbb/auto-harvest-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/sOrP6C8G/versions/3juIgM2p/auto-harvest-1.0.2.jar"
 hash-format = "sha512"
-hash = "ab4256afff487dd5d179de24b3ccc00af5f8ab8296448f784c22e1353fefc830eb18b0c9fb52d9e184f7c9cbb511b876447efc563a404df70e7fd1fb970c8487"
+hash = "da0e0beba5982c5492b2e59400d012185c5fc8244c87d4702e8da0c5f79ff8ccfaaf5726fa39f15705961d44ed5b2406c1ab07be6a36b34c30f983efcdeee441"
 
 [update]
 [update.modrinth]
 mod-id = "sOrP6C8G"
-version = "PMPPvvbb"
+version = "3juIgM2p"

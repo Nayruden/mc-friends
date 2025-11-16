@@ -1,13 +1,13 @@
 name = "Biomes O' Plenty"
-filename = "BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar"
+filename = "BiomesOPlenty-fabric-1.21.8-21.8.0.18.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HXF82T3G/versions/3RGurDCA/BiomesOPlenty-neoforge-1.21.1-21.1.0.12.jar"
+url = "https://cdn.modrinth.com/data/HXF82T3G/versions/N0tADljF/BiomesOPlenty-fabric-1.21.8-21.8.0.18.jar"
 hash-format = "sha512"
-hash = "a77aae24187d0b8d5c6226afa1abb8fa802261cb553505f7d40fc0baed0629ccf2092bc8eb4af6eea680fd1555896967be181bba80b1b60d3ad32a6d490b501e"
+hash = "3defa14f747aff9ee1639534fa39e028e8cb77b6c79c7fe59eec1c69fca383aa75b85f12cf5c2ca5627662cf850695dc2140e39a4510c51b98f571050a9ca4d2"
 
 [update]
 [update.modrinth]
 mod-id = "HXF82T3G"
-version = "3RGurDCA"
+version = "N0tADljF"

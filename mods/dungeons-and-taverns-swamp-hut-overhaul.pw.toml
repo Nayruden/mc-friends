@@ -1,13 +1,13 @@
 name = "Dungeons and Taverns Swamp Hut Overhaul"
-filename = "dungeons-and-taverns-swamp-hut-overhaul-v2.jar"
+filename = "dungeons-and-taverns-swamp-hut-overhaul-v2.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/nWSeFpQt/versions/XJq4ei5a/dungeons-and-taverns-swamp-hut-overhaul-v2.jar"
+url = "https://cdn.modrinth.com/data/nWSeFpQt/versions/tQb61Oub/dungeons-and-taverns-swamp-hut-overhaul-v2.2.jar"
 hash-format = "sha512"
-hash = "fb5ce420a4772c6957f0148b1e84411c8671ab2f6737edc514baaab0e943121bcb2f27b617b5eea17ffc13006eaa9aac400b1b29db1f90ab77673128825d1f3b"
+hash = "4c40ec637b58128d3674023c6c185ac8a35f28064239dd9fd66850adfb22efccacfd2af081861c57ca196c60426fd3adbd32f0f413060b325b3df63dc72bed3b"
 
 [update]
 [update.modrinth]
 mod-id = "nWSeFpQt"
-version = "XJq4ei5a"
+version = "tQb61Oub"

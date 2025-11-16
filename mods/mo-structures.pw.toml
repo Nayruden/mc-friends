@@ -1,13 +1,13 @@
 name = "Mo' Structures (NeoForge/Fabric)"
-filename = "mostructures-neoforge-1.6.0+1.21.1.jar"
+filename = "mostructures-fabric-1.6.0+1.21.8.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/PTGd6dWp/versions/7XsO4Qud/mostructures-neoforge-1.6.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/PTGd6dWp/versions/LE89QKV6/mostructures-fabric-1.6.0%2B1.21.8.jar"
 hash-format = "sha512"
-hash = "24206f9d879ecfbdbc60078a8e3bf28a6f2e963ad55f03c542a06c0f1b104eea785b6a77ca3d67c8704dc9ca1a64d805ac19e705c197c389d3084595d07e388f"
+hash = "a84060d41b074cef5c53c6bdceefaa2a56b479aeb08a88d680bd3bce4330a69639d0557ddfa7b4a7d0c9bd93b83bec834d14710354965e503ec682fb97581bbc"
 
 [update]
 [update.modrinth]
 mod-id = "PTGd6dWp"
-version = "7XsO4Qud"
+version = "LE89QKV6"

@@ -1,13 +1,13 @@
 name = "Dungeons and Taverns End Castle Standalone"
-filename = "dungeons-and-taverns-end-castle-standalone-v1.1.jar"
+filename = "dungeons-and-taverns-end-castle-standalone-v1.3.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/WIs8E6hv/versions/5Gf0BYpK/dungeons-and-taverns-end-castle-standalone-v1.1.jar"
+url = "https://cdn.modrinth.com/data/WIs8E6hv/versions/dY65tvIq/dungeons-and-taverns-end-castle-standalone-v1.3.4.jar"
 hash-format = "sha512"
-hash = "f2a8db626b0a856aded8ef9fc3abc29bae18a879ddb9c3f13b405c080e7f6ff8f6c38859b165ff4b9d89dc20379b26173996f910855b2ee2dacdecf4aac820e9"
+hash = "095b26e877a847851bc0329056d148ea03c753511865e8cecdb1ea85900f6ee82b5bc695d1cc9c99501f7e3ab014ab22316a17a9347a776945cab40a44b6e147"
 
 [update]
 [update.modrinth]
 mod-id = "WIs8E6hv"
-version = "5Gf0BYpK"
+version = "dY65tvIq"

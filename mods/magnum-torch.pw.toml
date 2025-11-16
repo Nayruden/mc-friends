@@ -1,0 +1,13 @@
+name = "Magnum Torch"
+filename = "MagnumTorch-v21.8.0-1.21.8-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jorDmSKv/versions/E6igA225/MagnumTorch-v21.8.0-1.21.8-Fabric.jar"
+hash-format = "sha512"
+hash = "3fbfde6e5c9b8fbb666554b66382af10801da956659a2ab215c36168a43291988b96fd977bc2fd4ea68d20690e784b3c35ab2c753713fd994026f4e0021a6453"
+
+[update]
+[update.modrinth]
+mod-id = "jorDmSKv"
+version = "E6igA225"
