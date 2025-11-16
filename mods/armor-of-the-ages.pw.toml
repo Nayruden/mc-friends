@@ -1,0 +1,13 @@
+name = "Armor of the Ages"
+filename = "armoroftheages-neoforge-1.21.1-1.5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vEgtiJIY/versions/UDimRO93/armoroftheages-neoforge-1.21.1-1.5.7.jar"
+hash-format = "sha512"
+hash = "710e85cbebf418c7ae55e484c70d67a6cd240ae6607c87c97ecfbb43c8c2a91e5af7751c6918dee5851cd0dd12ede2054e31cd4983c7e44825a78eaa07dcb36a"
+
+[update]
+[update.modrinth]
+mod-id = "vEgtiJIY"
+version = "UDimRO93"

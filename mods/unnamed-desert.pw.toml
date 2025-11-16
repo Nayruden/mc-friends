@@ -1,0 +1,13 @@
+name = "Unnamed Desert"
+filename = "u_desert-2.0.2+mc1.21-1.21.10.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ThFWvdF1/versions/frTf99gY/u_desert-2.0.2%2Bmc1.21-1.21.10.jar"
+hash-format = "sha512"
+hash = "af2c4ee8119ddbacdc09e34d1144a62b19aff7298d8939eaabba000a7e67b243f756cfc5068099aff6ba20d63c69f68abb27cd9d0bd2681926096e096bd0139d"
+
+[update]
+[update.modrinth]
+mod-id = "ThFWvdF1"
+version = "frTf99gY"

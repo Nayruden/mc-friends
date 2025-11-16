@@ -1,0 +1,13 @@
+name = "Cherry Grove Starter House"
+filename = "cherry_grove_starter_house-1.0.0-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6XeiDA0s/versions/ogp3wwps/cherry_grove_starter_house-1.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "875b3ca4573ed1f149b2ceb4134d82776aeec22d6a0fce31cd15f500dd18c55baacc063d209e34ccc531c847124e4d3b167bdaa0415affaf68a27b160241daf4"
+
+[update]
+[update.modrinth]
+mod-id = "6XeiDA0s"
+version = "ogp3wwps"

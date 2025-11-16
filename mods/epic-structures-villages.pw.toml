@@ -1,0 +1,13 @@
+name = "Epic Structures: Villages"
+filename = "Epic Villages v1.1.0 (1.21+).jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/4OeMBkiG/versions/nBTdR7NR/Epic%20Villages%20v1.1.0%20%281.21%2B%29.jar"
+hash-format = "sha512"
+hash = "ae6dfe4a8c3b7c2ab119f12a3de241423a4b3a0b65c9e5bb2d065a74cea2fb2421fc3cd453a5f06278b29242b05c09e78ba1b51ebc94c96932f6674465ff00ee"
+
+[update]
+[update.modrinth]
+mod-id = "4OeMBkiG"
+version = "nBTdR7NR"
