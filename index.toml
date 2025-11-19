@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-archeology.pw.toml"
-hash = "fe25ab63de35303ce07384aac9c87ba25fe9dd5b714aa6d60efc47ab9575778c"
+hash = "8cf104d5a118bafaf42b0a05c89d4dbb69e9fd18ff0e298dedeb982a83325502"
 metafile = true
 
 [[files]]
@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
-hash = "079f836c6f6fb2d213320c60ff6497eb8bcc79c7c70519d21b7f6a4390534752"
+hash = "69cbc3379a2d4672bebd6d79bfb746229e36ef9c92adb3b7d4a6b2b554ac050e"
 metafile = true
 
 [[files]]
@@ -237,12 +237,12 @@ metafile = true
 
 [[files]]
 file = "mods/cristel-lib.pw.toml"
-hash = "79163e41833369161b34e0d8f734c98bf6a28264c002021c0037802afb0384c8"
+hash = "4d80daa8eb0ddcda79a42749ad4539de6cf00df3b8aa0fb12ad8a6601125b388"
 metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "ac938235375a39bb489ab594baa553e88dd4805cbe1e03b377c83cadc4b3e3a5"
+hash = "fdbb543842b547818a37ffd5a0c53c05171544c17a2ff5bb3a5f2da25187c53d"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/domum-ornamentum.pw.toml"
-hash = "560677900d746ef9c35cb48d1e51dfc8abcc188b3d390fde1dc3458f9c800057"
+hash = "e62ad211845d7aed46061fb23f6bfd8f66cf3ff3ece7ffa20766d40cf8b1387f"
 metafile = true
 
 [[files]]
@@ -762,7 +762,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "b50c582b469e6a8a6d927999b47cb54990454221a78107904b3fb65f9517ee95"
+hash = "1ccc10d344325d102261776a8d8ddcbe18539d88ffab204206e2f477b8599e9b"
 metafile = true
 
 [[files]]
@@ -777,7 +777,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "37e37d378573a64b1f00b81f7bf96071a053a387d70da2e29471315e98a029c7"
+hash = "bee01d4388fcc23be892c81a5eff5b7bbf50e846a6d7088397a7a818ad459a0c"
 metafile = true
 
 [[files]]
@@ -792,12 +792,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "50f3f504d137cd47731dcd820886e870a088bb149323624de510e7c04c2f81c3"
+hash = "44b52fc7e10142b0f514c66dbc0c74a0feae35ee329c37454e08aa1187d1d60e"
 metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "383098e1c971e33f71aeb2b6907d8734f4b42db4e6a26aec51166e232c33b153"
+hash = "5c5a98c63fc8d7882eca391942741727f7c51c87fa5f48f6f91cebbd1d6e3e0f"
 metafile = true
 
 [[files]]
@@ -1017,7 +1017,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
-hash = "b3ec7ed626f8fcd4fcca8a08d9dfc5853281ce0b463140d416a0d3bdeecf086f"
+hash = "58f1355b95a63ff8808ba06eebdb9f89dbc4dee09892eb18a72bd92597c249fe"
 metafile = true
 
 [[files]]
