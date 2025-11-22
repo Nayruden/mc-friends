@@ -91,6 +91,16 @@ hash = "9b5595b414f281b4f30c53751d0a0fb213ea4e70b94baf3e249886585f1afefb"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "d3b1615401954ddd0afdfadd4e0ea6c06a1c84264a872774546ccf53666355a3"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "315bafd24f8ba8c74db38cdd35148cb7be59d89d92a1e90c0c41d7093a9deda9"
+metafile = true
+
+[[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "95a409d7794c80fd1f5bab4ad082a8b165a678435c32948b46597c157834a6db"
 metafile = true
