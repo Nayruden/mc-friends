@@ -161,6 +161,11 @@ hash = "ffbf93d7fc28342243ed400c0f5494e6a0f2ca9ca010e00d303cb25b4a4821e2"
 metafile = true
 
 [[files]]
+file = "mods/bundle-recipe.pw.toml"
+hash = "9fdd6e5493d0bbf564f032223ef2106eaef018e16d63d337043dc162771228dd"
+metafile = true
+
+[[files]]
 file = "mods/bygone.pw.toml"
 hash = "a12011f9da9a177951b40bf48ae16a2e20ff734ae94d38fa9c474f5f4f592fc3"
 metafile = true
@@ -422,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "847b1ef4cab7e5310e058ec2118f4e257327252c230bea328afacac3b1ddd9ad"
+hash = "c67d73440c55cc47a47ac8987da9cd01de3ad2a8f1480a304355c3e21092d2e4"
 metafile = true
 
 [[files]]
@@ -762,12 +767,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "1ccc10d344325d102261776a8d8ddcbe18539d88ffab204206e2f477b8599e9b"
+hash = "0198cb9eb5355d8561e5d6995de0b6cf8562af47e5042a3fa4f5c87668bbb7fa"
 metafile = true
 
 [[files]]
 file = "mods/mingen.pw.toml"
-hash = "3e5928ff63b28e9346c71034758086a32b3691a6a9b9c26ead91347ffb160ca8"
+hash = "ebfa47fed68710b858de7b8d5c958bc04e7f532bff65471a42c7c941561afe82"
 metafile = true
 
 [[files]]
@@ -1242,7 +1247,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/als-3d-potions.pw.toml"
-hash = "1aeaed399873a70d09da260738d195cd9c98a5d57f561aee1feba5ec6dec44c1"
+hash = "bceddfed925ecde09e268c03b25cfb6457b7019a2c012799ab58f7eaf3124b90"
 metafile = true
 
 [[files]]
@@ -1267,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+hash = "42b8a59616b3ed15a02e55466dff7ab400d481a8730949ce0168a927b71b91fb"
 metafile = true
 
 [[files]]
@@ -1288,6 +1293,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/fusion-connected-glass.pw.toml"
 hash = "cc4c03200baa367d40720320336b692e6c4fe71edbea890e27210bb2cc42408c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lower-fire.pw.toml"
+hash = "673378656b13bf117d8f7c29993b73f32df691d6caaa40f89b794580adc37274"
+metafile = true
+
+[[files]]
+file = "resourcepacks/lower-shield.pw.toml"
+hash = "828c2917773eec70ed55e9373e97e20a0a909ba3e1b6b964961532e98e4c8a3d"
 metafile = true
 
 [[files]]

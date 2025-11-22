@@ -1,13 +1,13 @@
 name = "AL's 3D Potions"
-filename = "AL's 3D Potions 1.1.zip"
+filename = "AL's 3D Potions 1.1.1.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/B5ROAikr/versions/MSIB0nMP/AL%27s%203D%20Potions%201.1.zip"
+url = "https://cdn.modrinth.com/data/B5ROAikr/versions/AJYYJ1Pr/AL%27s%203D%20Potions%201.1.1.zip"
 hash-format = "sha512"
-hash = "66499b42727eb505fc83f89f6b583e1599c52cd4a8724eb373964397cd0b45604560096eeba5ac52727e3306443f7dcb9364bf2c811ecaa76300b88b3ebd8192"
+hash = "5c3b52bd8f378e84ade363cd3f62d7070a4952d154ad80f4db8ed2fca46fafa386cc9b796330a3ed1559c9eaa4b8c8f869db258f833b7a8d21b48cff5d440581"
 
 [update]
 [update.modrinth]
 mod-id = "B5ROAikr"
-version = "MSIB0nMP"
+version = "AJYYJ1Pr"
