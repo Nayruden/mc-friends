@@ -1,0 +1,13 @@
+name = "Lower Shield"
+filename = "lower_shield_1.14-1.20.4.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xERacUfv/versions/uY600uWm/lower_shield_1.14-1.20.4.zip"
+hash-format = "sha512"
+hash = "9b2da8bef2caf70ae50a5c33af0757246883780113f4da93bfe6148c577289b3f484a8e6b6dee9db2eda6b88dea397b7f26946c28879fc2afd3fe6f4cd69c3d3"
+
+[update]
+[update.modrinth]
+mod-id = "xERacUfv"
+version = "uY600uWm"

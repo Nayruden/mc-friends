@@ -1,0 +1,13 @@
+name = "Low Fire."
+filename = "Low Fire 1.21.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/dMP1Fvla/versions/HmqPmQMY/Low%20Fire%201.21.zip"
+hash-format = "sha512"
+hash = "839ca5c384b88be69814fe8e50c070ee7e21b0513aedbe1afbb277b0a2161df4642514f34464ee87acde2de865c99670b3178bbe06ac217ff2ef005b062c4f27"
+
+[update]
+[update.modrinth]
+mod-id = "dMP1Fvla"
+version = "HmqPmQMY"
