@@ -1,13 +1,13 @@
 name = "Auto Harvest"
-filename = "auto-harvest-1.0.2.jar"
+filename = "auto-harvest-1.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sOrP6C8G/versions/3juIgM2p/auto-harvest-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/sOrP6C8G/versions/k1pY8oPl/auto-harvest-1.0.3.jar"
 hash-format = "sha512"
-hash = "da0e0beba5982c5492b2e59400d012185c5fc8244c87d4702e8da0c5f79ff8ccfaaf5726fa39f15705961d44ed5b2406c1ab07be6a36b34c30f983efcdeee441"
+hash = "2527ea37a66acdc78c6ce7831cfb33de80be7054a142cf4cb722dc7023f066e2ba07d730c49146e72ec5a801d3aa5f5ece2df2664a4b4cae4c487dfcc16908e1"
 
 [update]
 [update.modrinth]
 mod-id = "sOrP6C8G"
-version = "3juIgM2p"
+version = "k1pY8oPl"

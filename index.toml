@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/auto-harvest.pw.toml"
-hash = "5f4c6c120b1427131462aad38e6ff3a43ee263f2be6a49f38460f2edc3e28dd0"
+hash = "ef33f33e770c954fc86ff3c103f40b50ee856fa2e3708aff02408b4246c6100e"
 metafile = true
 
 [[files]]
@@ -207,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dae294bc7e60c5052b3c705bc15e4b2ebc1af7465e294c4f9824a4b63719475b"
+hash = "54e3cc9a3c2a05cc879ffda7f4c97a89be0b648421d6c8fe92e2d3e5761abf20"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "37e37d378573a64b1f00b81f7bf96071a053a387d70da2e29471315e98a029c7"
+hash = "bee01d4388fcc23be892c81a5eff5b7bbf50e846a6d7088397a7a818ad459a0c"
 metafile = true
 
 [[files]]
@@ -292,12 +292,12 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "c330548873af7f8714c9688caed3f60d8afbb31ef0bddc78d051932e6cbbd7d0"
+hash = "4a042e0eaa27b341b33f2a77464d728544b1ad179270ae0f5c091129f1a6c664"
 metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "383098e1c971e33f71aeb2b6907d8734f4b42db4e6a26aec51166e232c33b153"
+hash = "5c5a98c63fc8d7882eca391942741727f7c51c87fa5f48f6f91cebbd1d6e3e0f"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/mtr-moogs-temples-reimagined.pw.toml"
-hash = "eccf76d3f15b86c10569dc15b0e7f945c3ce119ec0c9f8350a5925ff8512bfe6"
+hash = "1b818fad441e1474fd67189319be9db096262ca0fe119954d7a29fe218fb38c4"
 metafile = true
 
 [[files]]
