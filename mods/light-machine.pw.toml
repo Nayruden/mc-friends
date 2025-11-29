@@ -1,0 +1,13 @@
+name = "Light Machine"
+filename = "light-machine-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/te06RRO7/versions/OSXwRltO/light-machine-1.0.1.jar"
+hash-format = "sha512"
+hash = "056a85df7cac80d92d78f3c83043958a2e3bb3242a1c3b700a179b840061a926cc20d3358438394e53c87175fec6e346823f7d579cdc97643f84cd4a603008b8"
+
+[update]
+[update.modrinth]
+mod-id = "te06RRO7"
+version = "OSXwRltO"

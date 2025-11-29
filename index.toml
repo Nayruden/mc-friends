@@ -246,6 +246,11 @@ hash = "255e7276fbc2e28a796666639d0ef8496be02d522c28a63f3a0cf74a129a57a2"
 metafile = true
 
 [[files]]
+file = "mods/light-machine.pw.toml"
+hash = "6d1b4c3561ed8789ca4a56ce37fc8c1350e05a185711226239e7a764971183b5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
 metafile = true
@@ -267,12 +272,12 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "3ae7b277219dbb0f0a75745a55e7712c754275fc85998707e7983039353d187d"
+hash = "02136827d47b338d4f1c897cfa1eb4d92bd0f5dfc5300875c9737390ffcc529a"
 metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "ad167f92c36bf4b7e76baa4fdddf98e4e6f296a1f51730a82f67bb8406b0eddb"
+hash = "079e6b85da3a1aa67c46b4b1f48c3e229a54865e22d4b2e2e55cc94689cc4e89"
 metafile = true
 
 [[files]]
@@ -427,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "2552da4284288224f39d6f5989c281727eb1d913ca11b72ec4b4cf949a445346"
+hash = "06900344c9edbc5a0fa132fe75409fd6d2044bdf0becb9209ffae12962683362"
 metafile = true
 
 [[files]]
