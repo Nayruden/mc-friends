@@ -866,6 +866,11 @@ hash = "6812c3faa178cd48c65c5b8e7aeef50bc0b63d8e3b2117065d6179a43d8d3649"
 metafile = true
 
 [[files]]
+file = "mods/realm-rpg-treasure-balloons.pw.toml"
+hash = "ba3f5d3e84850fc3a1df50bad997b3acdc3d8236de7a1f45f1a12ddde1f9c9b7"
+metafile = true
+
+[[files]]
 file = "mods/reforged-accurate-block-placement.pw.toml"
 hash = "480e8e885c737f0f0f8be377f02e113c9ed9d34d8aa0eaf527eede799482239c"
 metafile = true
