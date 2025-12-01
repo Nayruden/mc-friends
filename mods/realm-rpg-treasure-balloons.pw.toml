@@ -1,6 +1,6 @@
 name = "Realm RPG: Treasure Balloons"
 filename = "realmrpg_balloons-0.9.1-neoforge-1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/slMy2SdH/versions/PMpWyC0l/realmrpg_balloons-0.9.1-neoforge-1.21.1.jar"
