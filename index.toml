@@ -6,13 +6,18 @@ hash = "7b5fba1b2499c191160be6b1b01c54ace077ae7d3c5228ae4af4d360e3d0a336"
 metafile = true
 
 [[files]]
+file = "mods/abridged.pw.toml"
+hash = "3357b2222c62c0ad2231be67ed0e6505e46d7a54d0d12fde2ab0239640769927"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "b3abe4c54a55d9ff6072a783745562dca78eeada24241314b566a52830cfe670"
 metafile = true
 
 [[files]]
 file = "mods/adorabuild-structures.pw.toml"
-hash = "b3c442f8454615227f1bddfbc84d0eb5af191ff2a2a4526804f9446a10dc5129"
+hash = "9e02a50e86eadb6b6a89af6d13dea2c9505cfba2259d4cb9b636fec83a949c1f"
 metafile = true
 
 [[files]]
@@ -172,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/byzantine-styles-pack-for-minecolonies.pw.toml"
-hash = "69cbc3379a2d4672bebd6d79bfb746229e36ef9c92adb3b7d4a6b2b554ac050e"
+hash = "361e9ebf5ac9f3c9ee99d2395e8cb219462e22d37766d74d935c2996670ceae8"
 metafile = true
 
 [[files]]
@@ -232,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4fa2b82a3e4a5f63fc85f217110056bbb737a17f79cb0d5042e0ae903cb393d5"
+hash = "e7c3b17b228879438c0764720ce082898192468124458b76d1a6519ea54fd30b"
 metafile = true
 
 [[files]]
@@ -617,7 +622,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f8edc1d5fadb1b65f8f869893ec637ec8a5e5f92fb0a7f140e9e62977668f895"
+hash = "1bcfc5725a3640a049a81793be5a0efbda2aa0c42a9699144ca8e72e68716bd8"
 metafile = true
 
 [[files]]
@@ -772,12 +777,12 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "bf832eec9f66b0dac332038b86f75e381f3dd5186f8411781dae10a0cc7ba039"
+hash = "48c1f6df4e6cb6050dedf5265fe97a72c8199fe38e903f9878478ebe5f5d1658"
 metafile = true
 
 [[files]]
 file = "mods/mingen.pw.toml"
-hash = "b53864a8ecb23c94df02b19be3f90734a4a84efb87a0e24abaeb453a7cd46eb8"
+hash = "fedb2ee76eae941e1d4d0645c3208cc3bc768d31929fc4667785d2d498c1523b"
 metafile = true
 
 [[files]]
@@ -807,7 +812,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "5c5a98c63fc8d7882eca391942741727f7c51c87fa5f48f6f91cebbd1d6e3e0f"
+hash = "344abb591cc9ec3e8a50ab00906c3f8844f0a1377a8ad492029b9fcfa3dc3379"
 metafile = true
 
 [[files]]
@@ -832,7 +837,7 @@ metafile = true
 
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "5fc6719951cbe80a528ac6de0296998decac6bb821198a39943edecbf6dd0867"
+hash = "292270753d8db67924aade4cb50897049e40380ff871f1708f315c413d0a4c4e"
 metafile = true
 
 [[files]]
@@ -987,7 +992,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "e2615312dcf7aaa1a831a76a3bd215dd37c03bf7ba48a7aeecc5f886c5c62888"
+hash = "b03a9cb248cb1803775a377f455a42bcc7c876dd33b181fd446ded77a3ab0209"
 metafile = true
 
 [[files]]
@@ -997,7 +1002,7 @@ metafile = true
 
 [[files]]
 file = "mods/subtle-effects.pw.toml"
-hash = "46d28a5f6168b55be612a6f5d616dd0a28bb33f8bf2c6b23c30c0bae17e8ae3c"
+hash = "ebbb8c25c8741d0bbe4aa09c893e1f34228e4e50f92e7ae829a4dbbf621d9045"
 metafile = true
 
 [[files]]
@@ -1037,7 +1042,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-bumblezone.pw.toml"
-hash = "58f1355b95a63ff8808ba06eebdb9f89dbc4dee09892eb18a72bd92597c249fe"
+hash = "7c5239da374d83f3d4769be504003b3d36a5b6efdc9e3ea12bd384aab85ece11"
 metafile = true
 
 [[files]]
@@ -1187,7 +1192,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "64eaf7478e42d5143f4feeee87c56f779f4c3523f9fb06d8342484d36aa4442b"
+hash = "9a89a97f142873b9ab62d2c7c807ac22e6f16c828282052b416a6f3f7f785a48"
 metafile = true
 
 [[files]]
@@ -1282,7 +1287,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations-extensions.pw.toml"
-hash = "c35f41d09504478ac9d85d9a939460511c50676f5ea3a19537a2ac204281506e"
+hash = "d3571c12bae3b4ff244307f5f5bdfa1654175981eeda8d76059266eaa7d926fa"
 metafile = true
 
 [[files]]

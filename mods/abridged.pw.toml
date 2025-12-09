@@ -1,0 +1,13 @@
+name = "Abridged"
+filename = "abridged-2.0.0-neoforge-1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tb5O1ssC/versions/955TTsaY/abridged-2.0.0-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "52bc3732640d21372e31d12ec486de0a9e69793be36598b4f823ad22d92b24432aff3a9ee1a5533b78b00a79cda211d6adcba99dd0b8b23e90705d372261855d"
+
+[update]
+[update.modrinth]
+mod-id = "tb5O1ssC"
+version = "955TTsaY"
