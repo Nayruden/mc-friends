@@ -1,6 +1,6 @@
 name = "Loot Integrations: Towns and Towers"
 filename = "lootintegration_townsandtowers-1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

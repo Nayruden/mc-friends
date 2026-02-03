@@ -1,13 +1,13 @@
 name = "MinGen"
-filename = "mingen-v6.4.5.jar"
-side = "server"
+filename = "mingen-v6.9.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/FyLFHdlz/versions/IUax25ea/mingen-v6.4.5.jar"
+url = "https://cdn.modrinth.com/data/FyLFHdlz/versions/wgQjVcNy/mingen-v6.9.jar"
 hash-format = "sha512"
-hash = "13bcb8cf593c7ed05b8dd503a3faab1c74e1368394fdca359ede0be8dfeb3a0d79e0f01edae637547671992e34628a09d67d725768e48c633db98e0aaf843200"
+hash = "edef3dfe8e3cf45c412a19dc3f7007c92670d8cf44b24e8bc3d5833f7832fd92dde7a4efba19f9dec4b38deb074270e82130cedd559d9719d03fc50aed180972"
 
 [update]
 [update.modrinth]
 mod-id = "FyLFHdlz"
-version = "IUax25ea"
+version = "wgQjVcNy"

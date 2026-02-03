@@ -1,6 +1,6 @@
 name = "Loot Integrations: Hopo Better Mineshaft, Ruins & Portals"
 filename = "lootintegrations_hopo-1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

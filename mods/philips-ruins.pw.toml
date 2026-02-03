@@ -1,13 +1,13 @@
 name = "Philips Ruins"
-filename = "Philips-Ruins1.21.1-2.0-NeoForge.jar"
-side = "server"
+filename = "PhilipsRuins-1.21.11-1.0-Fabric.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/EQHGxQAv/Philips-Ruins1.21.1-2.0-NeoForge.jar"
+url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/X5XWc1ik/PhilipsRuins-1.21.11-1.0-Fabric.jar"
 hash-format = "sha512"
-hash = "e18119706fe065ccf571abc5d3f0e2badc95e26cee0ba5641aa88a67c2238ce2fd589459969a7691ae246658c601d7d35cc87562cc7b40b345965cbdd23fe2c6"
+hash = "93e09e1c106b08c7265e27fa72550fdb1f672bc4682182ba75e38848128d957aec306499a05b010db83ae431b74051fe16943501a3111072e14e95a0d8d04344"
 
 [update]
 [update.modrinth]
 mod-id = "KdJhOYVV"
-version = "EQHGxQAv"
+version = "X5XWc1ik"

@@ -1,6 +1,6 @@
 name = "Loot Integrations: ChoiceTheorem's Overhauled Village & Immersive Structures"
 filename = "lootintegrations_ctov-1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

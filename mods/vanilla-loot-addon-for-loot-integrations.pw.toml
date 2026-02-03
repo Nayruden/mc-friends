@@ -1,6 +1,6 @@
 name = "Loot Integrations: Randomized Loot Compatibility"
 filename = "lootintegrations_vanilla-1.4.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

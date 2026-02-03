@@ -1,13 +1,13 @@
 name = "BlueMap"
-filename = "bluemap-5.7-neoforge.jar"
+filename = "bluemap-5.15-fabric.jar"
 side = "server"
 
 [download]
-hash-format = "sha1"
-hash = "49675ada6be555e6f8393f49aff91750028e1239"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/gpuTeXXq/bluemap-5.15-fabric.jar"
+hash-format = "sha512"
+hash = "3ca167bbbef5db7c191344bb2d2260c36db5021536699c6f4a3d87ac7694c04072ed50a7315622325f23d186931978b6b34fe3dac402645dda49ff324f11303e"
 
 [update]
-[update.curseforge]
-file-id = 6239407
-project-id = 406463
+[update.modrinth]
+mod-id = "swbUV1cr"
+version = "gpuTeXXq"

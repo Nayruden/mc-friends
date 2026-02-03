@@ -1,6 +1,6 @@
 name = "Loot Integrations: Formations Overworld & Nether"
 filename = "lootintegrations_formations-1.3.jar"
-side = "server"
+side = "both"
 
 [download]
 hash-format = "sha1"

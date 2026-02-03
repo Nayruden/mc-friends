@@ -1,4 +1,4 @@
-name = "GG"
+name = "Gaming Grudge"
 author = "Nayruden"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,11 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d13865e08542c870a6b7d8fb5a3c6724487e870acdbd7ff4d10db0ef54953fac"
+hash = "4d92aba873e5f2084e879f61ce6574698fcc5e5e5e9ea412ce756ca38559c78a"
 
 [versions]
-minecraft = "1.21.1"
-neoforge = "21.1.214"
+fabric = "0.18.4"
+minecraft = "1.21.11"
+
+[options]
+acceptable-game-versions = []
