@@ -1,0 +1,13 @@
+name = "WarpUtils"
+filename = "warputils-fabric-1.21.11-0.4.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/E7tP6wsR/versions/eDn8AOvZ/warputils-fabric-1.21.11-0.4.3.jar"
+hash-format = "sha512"
+hash = "49e512a43231f60b85f10c480803fea75f11adcd6b77851c0b9d00f34b9a9a5321a45b84a4054df7694d2a557431f0ffab13d1d791a487c15757d5c41f0b9373"
+
+[update]
+[update.modrinth]
+mod-id = "E7tP6wsR"
+version = "eDn8AOvZ"

@@ -1,0 +1,13 @@
+name = "Structures"
+filename = "structures-2.1-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6lxFhM2b/versions/lBkRwOzI/structures-2.1-all.jar"
+hash-format = "sha512"
+hash = "eeabf74c20fd95fcd3039fb813a98d2517cf17ff674879224cdabaffed0b368152db03bb151289ec0dc5f4d17b4df25c13e819171a2733b74ab2b4b7b989efe6"
+
+[update]
+[update.modrinth]
+mod-id = "6lxFhM2b"
+version = "lBkRwOzI"

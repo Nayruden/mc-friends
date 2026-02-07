@@ -1,0 +1,13 @@
+name = "DeadWeight"
+filename = "deadweight-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y3ngLce9/versions/2Loxjx7w/deadweight-1.0.0.jar"
+hash-format = "sha512"
+hash = "9dd4c3f62b82cf26c9cdc92b3c64db7307d3877d9036f333c42fbb8b10ec6c507f5f9fa1e002ece600656ade33ea8f38248866346081ba649a349b2ea21899fb"
+
+[update]
+[update.modrinth]
+mod-id = "Y3ngLce9"
+version = "2Loxjx7w"

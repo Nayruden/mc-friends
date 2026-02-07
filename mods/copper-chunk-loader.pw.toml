@@ -1,0 +1,13 @@
+name = "Copper Chunk Loader"
+filename = "copper-chunk-loader-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y6iamK6k/versions/YREEgfoN/copper-chunk-loader-1.0.3.jar"
+hash-format = "sha512"
+hash = "a9b2f8e57ed4e8ef7b5b86c5b71d35f3f1fe593f51fba8a6dbc0a220364de342463cfe754fca7aea2cdf199f653f1c0691143e948cc9bb0a19a23836e2c039cb"
+
+[update]
+[update.modrinth]
+mod-id = "Y6iamK6k"
+version = "YREEgfoN"

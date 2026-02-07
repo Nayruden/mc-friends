@@ -1,0 +1,13 @@
+name = "LootRestock"
+filename = "LootRestock-1.0.1+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ddaWpjKK/versions/tYTjRLVN/LootRestock-1.0.1%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "7cebc2b5303d4f2c59eeabf9dc353dd0c9e9343fa119a6225c23e0ef370d972a486c8321c1a14925645550a13c7c6c344003d3c622683f33a3e57918487338c2"
+
+[update]
+[update.modrinth]
+mod-id = "ddaWpjKK"
+version = "tYTjRLVN"

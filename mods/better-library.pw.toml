@@ -1,0 +1,13 @@
+name = "Better Library"
+filename = "better_lib-fabric-1.21.11-1.0.109.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2x0ULgTj/versions/6zvvJQZw/better_lib-fabric-1.21.11-1.0.109.jar"
+hash-format = "sha512"
+hash = "c740551b9e03307218cfa4b5068c8e03ad710e17b3356a34588639c29f0dab0ef6778b3dbccc3a7755e17dcf3d6f53ca809053df46e890d31383c5228e375f88"
+
+[update]
+[update.modrinth]
+mod-id = "2x0ULgTj"
+version = "6zvvJQZw"
