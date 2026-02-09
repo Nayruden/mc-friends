@@ -51,6 +51,11 @@ hash = "853ba2ec022456ae2f357268a27c7cb1018b0c57e0c1e9071330f81e035f59f9"
 metafile = true
 
 [[files]]
+file = "mods/bmarker.pw.toml"
+hash = "5cfdc9f976276163619cff393614fdfe72d7847c65a4eca0c5e6f6a106140cfe"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
 metafile = true
@@ -78,11 +83,6 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
-metafile = true
-
-[[files]]
-file = "mods/copper-chunk-loader.pw.toml"
-hash = "4a0d1fd56d24396738d2ccaac10ba77c7376b6bf080529c127de43ac46b08638"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
+hash = "408151861cc1b1a4c4e9c8a3550662a2fc36d0ea96ee07b7e96c5d2a6afacf6f"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "b050451c26d4f778c89c585a7e77a76d0f313b35704dfacc09f1ced3389f2029"
+hash = "a3f8f76942f19ec593faa2734a5999f0239b9a8a5b82a4f5ace9450b280cd143"
 metafile = true
 
 [[files]]
@@ -293,61 +293,6 @@ metafile = true
 [[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "f12c997be9172dbf374708c4bdd1f8ef58081ccf7348dcddbf8cc8edac10b0f8"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-ati-structures-epic-structures.pw.toml"
-hash = "583ac8a3293321d7a1131771daa4dab4c1de72db46a4263aec19aea50de850b9"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-choicetheorems-overhauled.pw.toml"
-hash = "01be52ea84fb04197908d5d27e0747a8c2a2c487ae0ca328d25e44de04ed096c"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-dungeons-and-taverns.pw.toml"
-hash = "f25ef96e8a692f199d1eff07a3e53a7c488ebf95cec1365caeb18b3342e27de0"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-formations-overworld-nether.pw.toml"
-hash = "8533b8afdb5115b420862c709527c9b9109908e16cb5679c8834a3861477c742"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-hopo-better-mineshaft-ruins.pw.toml"
-hash = "e2303b32cd1ac4154889517770f048ae58f85a2848b6819dbddc1b15f2b78bfb"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-moogs-voyager-soaring-end-nether.pw.toml"
-hash = "454c9be1c3fe7bccec4bbdc6cdb660218bc32da8bf64f67c3c7e47c649d8a837"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-philips-ruins.pw.toml"
-hash = "aad2485b7897747d413bfad963f1287aa3bb271df5845824e3343e1315183b3a"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-structory-towers.pw.toml"
-hash = "ec6a39120788d176adbc098e546fbed7abedce952d5168a78e14459214a005ed"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-towns-and-towers.pw.toml"
-hash = "4c07e892ff2fa254acab3a5a125322eb9b9a48aec76905a9335621255444eebf"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations-yggdrasils.pw.toml"
-hash = "e2c23a975b4c612425fbc8a7c2611d61c01fba25e1406b98ec7fc8b78e21b1bf"
-metafile = true
-
-[[files]]
-file = "mods/loot-integrations.pw.toml"
-hash = "e0db4cf89b16317e3aa078289f6625c36c35fa106330ccf826cf25959d475134"
 metafile = true
 
 [[files]]
@@ -421,6 +366,11 @@ hash = "548a21f091f48b62c91d69a3857648abc6cc70ea18ebeb2d0b649a6576773a27"
 metafile = true
 
 [[files]]
+file = "mods/quick-shulker-boxes.pw.toml"
+hash = "6e0ad72f3f2225a2f877de9dd0748e4bf7e147cab65e4294efe2011e4e6d0c10"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "a62d7893eae9d5713dbe9c844b2bb9eba53157743c47b6e8abcbdd9075264cc9"
 metafile = true
@@ -458,6 +408,11 @@ metafile = true
 [[files]]
 file = "mods/show-dimension-in-name.pw.toml"
 hash = "49008adb5bfd3f154c5cb20e1cc0ed3c1278a26aef1cce7493fab8b629211f4e"
+metafile = true
+
+[[files]]
+file = "mods/silk.pw.toml"
+hash = "a4c742db2f87bd02aa5dfd47faab025d985a9e21e69c72dd923a643a7a908513"
 metafile = true
 
 [[files]]
@@ -551,11 +506,6 @@ hash = "b84d295fc10b45aafbc8e536597945ab4e1602422d2566e211daddbe4d811374"
 metafile = true
 
 [[files]]
-file = "mods/vanilla-loot-addon-for-loot-integrations.pw.toml"
-hash = "2c55793a16d42dc2b10b5507c8799a41b42996e84f7be231341d1d79ecbe7881"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "147236c9b21df25b05d0715f21faf8c9b89dfa7af9d157c532f8e94887d47a65"
 metafile = true
@@ -582,15 +532,15 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "6a7758daa7ffb7b402e3a0e6b8f31fef75ef3e8eaabf5a5141e57e1c78d6b99e"
+hash = "d21eb38a2a92913f01ac07919bd1623760459b26ecf78d8731e43a137a8130fe"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2c6ad75996654f04dfe44a15d64abd5c2ae1d9fddca6d3e24cab236f3d589195"
+hash = "d1857ac4affba1c95f0053077f5723cf923a778f4286f868d35c4751366ef233"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e9395a06548b7cedb1d8df2a80569b858ea4ffe49d8cb31fdc363328658319f3"
+hash = "338c5720ac9752d54f36770947937a47e11f3c79124433e8aedafbbb3623ba92"
 metafile = true

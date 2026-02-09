@@ -1,0 +1,13 @@
+name = "Quick Shulker Boxes"
+filename = "quick-shulker-boxes-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xb1R3gX5/versions/9twHkFam/quick-shulker-boxes-1.0.jar"
+hash-format = "sha512"
+hash = "751ee6b8f217a9a077f943073cc177735b283a0a11d1406b166125b13469293f6d79b692af1f8f45f7fb4ec3cc9a0c4be801ca41d575610cc7cd721a0120491a"
+
+[update]
+[update.modrinth]
+mod-id = "Xb1R3gX5"
+version = "9twHkFam"
