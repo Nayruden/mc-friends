@@ -71,11 +71,6 @@ hash = "602078a29667a53759f23df6f7e9bd9a55711b9b15f7a7dc19e7d25b0c7ad1f2"
 metafile = true
 
 [[files]]
-file = "mods/clickvillagers.pw.toml"
-hash = "44cc867ee73dd2cf8e7237b0142bd636b90365d90253e2a2e52513be7afc6b20"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
@@ -242,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "604062ce43bc74fc19c8dbfbdfb7493c72fc70e3f7730ed692d74e857f722927"
+hash = "4efc4920fa0c172d428e4f9640f957d16dbba602e559876533ca3e643ee98f20"
 metafile = true
 
 [[files]]
