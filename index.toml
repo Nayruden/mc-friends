@@ -106,6 +106,11 @@ hash = "d12960012d51a8b2e8e8be70a4f583ff5fa8caeac4aff81f62e4e46cce83200a"
 metafile = true
 
 [[files]]
+file = "mods/disconnect-packet-fix.pw.toml"
+hash = "5c9f7094a4327e0730966e4a58617456695fbcbaedae3f79903ea6a1d939fc6e"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "479cc9008a66ce4dea0b0be0f749a986d73f5fe778516d6682a5202e19706179"
 metafile = true
