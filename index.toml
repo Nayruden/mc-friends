@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "853ba2ec022456ae2f357268a27c7cb1018b0c57e0c1e9071330f81e035f59f9"
+hash = "62918065759cc57713c2396de35daa19b378cca8140e1a400ecf67ffbf52e9b4"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "4efc4920fa0c172d428e4f9640f957d16dbba602e559876533ca3e643ee98f20"
+hash = "d898dd81cf54910a405adce0fc794152156a3b378eaa92852b3e85afbc519e1f"
 metafile = true
 
 [[files]]
@@ -366,8 +366,8 @@ hash = "548a21f091f48b62c91d69a3857648abc6cc70ea18ebeb2d0b649a6576773a27"
 metafile = true
 
 [[files]]
-file = "mods/quick-shulker-boxes.pw.toml"
-hash = "6e0ad72f3f2225a2f877de9dd0748e4bf7e147cab65e4294efe2011e4e6d0c10"
+file = "mods/quick-right-click.pw.toml"
+hash = "c7669a7b367772eee5d12f6df02e9508e464e164bae6d6e4f0a263c29f1c8b00"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "147236c9b21df25b05d0715f21faf8c9b89dfa7af9d157c532f8e94887d47a65"
+hash = "9ce3767540efbf35e0a0c266040c9879efc9136ec59cd38e06e45b3c3c3e90e0"
 metafile = true
 
 [[files]]
