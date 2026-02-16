@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "d898dd81cf54910a405adce0fc794152156a3b378eaa92852b3e85afbc519e1f"
+hash = "5b768edc855e1a747cf8680162bf2cc8a158a0d9f7fcae721e3091345395a881"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "f3b5fd87fcc538dfb46b73005ab3e0c67ce66995c570677f1e46a912f968b671"
+hash = "7e5ee84c0ffd1d2a8ac5b05bade2a27fdc2e73caa431f7860ec440e904c66ae0"
 metafile = true
 
 [[files]]
