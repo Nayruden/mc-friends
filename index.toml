@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "b759a60c6133b20b74477ba52e648ccaf79a1d16b194b61612f5c33f3a0465ac"
+hash = "72cff010fb3d46cd0076b013a88f17e03e4036d228e2cdba9a6513edd463ce86"
 metafile = true
 
 [[files]]
@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "a8a5efda10bc0393f5572d2dbf7701c8f315f849091921db86f71dec73e9c997"
+hash = "7dcd7187ab7143de356a4c905b4407d336589a41b7923f88d6756c6277fe821c"
 metafile = true
 
 [[files]]
@@ -422,12 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
-metafile = true
-
-[[files]]
-file = "mods/sortcraft.pw.toml"
-hash = "4a760623ac0d5f1214da13061d280c479c22aaa744824e33d804605c75c95066"
+hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
 metafile = true
 
 [[files]]
@@ -532,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "3b8cb57ec1acea84e1b36def4bc82b3d71d229759cfa5f96e7480ed5f5a77f01"
+hash = "759944d7ca5c65bcb42515f56418f5201e942463bb5fe2904f05e98dba352041"
 metafile = true
 
 [[files]]
