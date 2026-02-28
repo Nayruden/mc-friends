@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "72cff010fb3d46cd0076b013a88f17e03e4036d228e2cdba9a6513edd463ce86"
+hash = "6515a9c0c294ed57475f97860833db72450be087d67b3bdf8a53c1160b9a7e82"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "21caf1cc09d510a23284e704cb5211408085d5964e5d6ca129fc0dc175c8fb79"
+hash = "40c04a15c3ee0b278fd4c0bafd56a1d4ba4d4b609701a078c1f8dbda678c58a6"
 metafile = true
 
 [[files]]
@@ -423,6 +423,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
+metafile = true
+
+[[files]]
+file = "mods/sortcraft.pw.toml"
+hash = "d84b86e435052dc2f51b30f9fc387800aa04a78fe430e33655fc1a738a2d3972"
 metafile = true
 
 [[files]]
