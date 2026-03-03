@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "a8f073ab0640d9e501fe3fc95d282306000fd6eab3186fd682269c0d0913b307"
+hash = "037350c2aa47c78e4223154291da5d6dd51e515015d78741f64d3d7b71e25111"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "6515a9c0c294ed57475f97860833db72450be087d67b3bdf8a53c1160b9a7e82"
+hash = "56c824f8e136b8c96fc5d3e87877470c442a8a43d0285b2ca9a4a6aa97a83269"
 metafile = true
 
 [[files]]
