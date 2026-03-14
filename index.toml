@@ -361,11 +361,6 @@ hash = "e2690ce7e51e74527ead933b1aef4566c84d2a4d0d482edd9e329c8a2a06963b"
 metafile = true
 
 [[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "7dcd7187ab7143de356a4c905b4407d336589a41b7923f88d6756c6277fe821c"
-metafile = true
-
-[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "64aa99a7288c2042202008ffe92d21271267db7f1626db4e499b417489ed96be"
 metafile = true
