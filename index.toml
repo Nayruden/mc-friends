@@ -81,6 +81,11 @@ hash = "c2a61b492dd0d7a156e15b7572adb40552b94c09658cc3c6d7faf99288d094c7"
 metafile = true
 
 [[files]]
+file = "mods/creeper-no-break-blocks.pw.toml"
+hash = "df157f61e41a2d3ea19802cd85669339e94e04819e86bd0658f5b8590a394522"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "e0b829e2138938618eb2c65bc16f41aef69beb2fb59611a3559a1d0ad3506432"
 metafile = true
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "56c824f8e136b8c96fc5d3e87877470c442a8a43d0285b2ca9a4a6aa97a83269"
+hash = "a41cbdcf7dcc33428669484ae2cfd02fc1fb440ee186e3823320c3fbc56a27f4"
 metafile = true
 
 [[files]]
@@ -267,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "40c04a15c3ee0b278fd4c0bafd56a1d4ba4d4b609701a078c1f8dbda678c58a6"
+hash = "c8ac2814188e2fa91cdfc98d1ae77e73a3b11e019f9c576dac8c46ebc4098a37"
 metafile = true
 
 [[files]]
@@ -417,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep.pw.toml"
-hash = "a8dfcf8fac7d083de3e683fb05d88e781607e21f82d76cd6952d393134cd18e2"
+hash = "37c58bf8cd48b5d5257374c9f57b67dacbfdd88adce7bf9946d3e8aa20a9b488"
 metafile = true
 
 [[files]]
