@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/afk-announcer.pw.toml"
-hash = "193b12f4272e61e95dfae1ffb1374762661a90980811fd711f327fa9f5c26bb8"
+hash = "ead45f43de7584f651100d6ed44e6d4e4f54704b143c787e6a54fe0c8f404445"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "a41cbdcf7dcc33428669484ae2cfd02fc1fb440ee186e3823320c3fbc56a27f4"
+hash = "2889e01bfe5a923b74f09a765214b5a8f341feee10f33ae060ba5fb7d732efc6"
 metafile = true
 
 [[files]]
@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "c8ac2814188e2fa91cdfc98d1ae77e73a3b11e019f9c576dac8c46ebc4098a37"
+hash = "3a4bdf4855b2c2bcab556507cd5f61fa8915cc0aa8519821efd09143b24235fb"
 metafile = true
 
 [[files]]
