@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/afk-announcer.pw.toml"
-hash = "ead45f43de7584f651100d6ed44e6d4e4f54704b143c787e6a54fe0c8f404445"
+hash = "15e0e224c88f9d70f5adb7ae21d8dd0ad3678bcc815c4aa01f5791ef0dc8b5cf"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "2889e01bfe5a923b74f09a765214b5a8f341feee10f33ae060ba5fb7d732efc6"
+hash = "ec41f79c7d50d204fdd7c6fc69381acfe380047bafbc3906cbeb0a74999a00ba"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
+hash = "74d55f8ffee46b10c6d4c709c298a72e1233cdd393707c223b3e861d7f104a88"
 metafile = true
 
 [[files]]
@@ -537,7 +537,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "759944d7ca5c65bcb42515f56418f5201e942463bb5fe2904f05e98dba352041"
+hash = "ec05d491b8609e975fc3182e73274fed6f64c606c3a96779efa8b130eee63935"
 metafile = true
 
 [[files]]
