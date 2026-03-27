@@ -216,6 +216,11 @@ hash = "816b735b2ad505476201800a99f527e61b392b712b9d20ca9edcce05f412fe87"
 metafile = true
 
 [[files]]
+file = "mods/fire-suppressing-cauldrons.pw.toml"
+hash = "2395b2b0a5366b7f402a6bdfce3e75ffbccc715deb773722a5314cb22d87d5ec"
+metafile = true
+
+[[files]]
 file = "mods/floodgate.pw.toml"
 hash = "ece34207ca75882863aa616328af686011fd554595b80a7858ddcc4848d5768d"
 metafile = true

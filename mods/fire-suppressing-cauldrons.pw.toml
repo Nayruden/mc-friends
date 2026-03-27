@@ -1,0 +1,13 @@
+name = "Fire Suppressing Cauldrons"
+filename = "firesuppressor-1.21.11-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/LZHLmFNO/versions/VFky5rsd/firesuppressor-1.21.11-1.1.0.jar"
+hash-format = "sha512"
+hash = "1902bcea264b658d9b633560aee6aa67ab259bb5a2329b945c12f1ffcf8dd811f157892050c90ce68424ec09145740565ae39df6c18face134477d2fca45092d"
+
+[update]
+[update.modrinth]
+mod-id = "LZHLmFNO"
+version = "VFky5rsd"
