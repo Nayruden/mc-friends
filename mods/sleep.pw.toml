@@ -1,13 +1,13 @@
 name = "Sleep"
-filename = "sleep-v4.3.13.jar"
+filename = "sleep-v4.3.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WTzuSu8P/versions/ELwtUzes/sleep-v4.3.13.jar"
+url = "https://cdn.modrinth.com/data/WTzuSu8P/versions/ThfAnoCl/sleep-v4.3.14.jar"
 hash-format = "sha512"
-hash = "cad3353f5b2f89ba19b9ca5c462d6f79645041857a251b61837e374661ae2ea2f6cd7adc4f07139307e91206277d828c1a1b448bb37f1f2ed62cd8e9bc0057c0"
+hash = "b5b2830246034d34e0349983e0e78da8cf113936a8451c12bda57b469133ca3e62db65811b928ea43b3b98284e44547a9dabdd31f774a2f1172dc2b4deb04e04"
 
 [update]
 [update.modrinth]
 mod-id = "WTzuSu8P"
-version = "ELwtUzes"
+version = "ThfAnoCl"

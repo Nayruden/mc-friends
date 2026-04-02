@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/afk-announcer.pw.toml"
-hash = "31fff5c65216e9f35d4c2e8a855e87f02d8c956dad12d72d920109cce00090a4"
+hash = "28b03769b2a2b2080b476fac9603e4044058628754c788e3e569425d787285d5"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "d907aa0dfb72b38549c464756869ddb05447e4ce153b3d7156ea650e8be36283"
+hash = "24a7013d1624d6c4f2cece7103ff741f16dc6e43bea5a13b261910534b1158cf"
 metafile = true
 
 [[files]]
@@ -417,7 +417,7 @@ metafile = true
 
 [[files]]
 file = "mods/show-dimension-in-name.pw.toml"
-hash = "49008adb5bfd3f154c5cb20e1cc0ed3c1278a26aef1cce7493fab8b629211f4e"
+hash = "173c3e20f5d1d7dbf2a96954a463a6a0ff4fc93a2d97451faf93708a3b1dcf35"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep.pw.toml"
-hash = "37c58bf8cd48b5d5257374c9f57b67dacbfdd88adce7bf9946d3e8aa20a9b488"
+hash = "5392159176941083b36eec0dc9e6b03f85f54371490f50fe2c40e98a84e40a9d"
 metafile = true
 
 [[files]]
