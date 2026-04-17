@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/afk-announcer.pw.toml"
-hash = "28b03769b2a2b2080b476fac9603e4044058628754c788e3e569425d787285d5"
+hash = "5f03ace8950c93a9e570c7d49b6e1dadb27a6390e69476140893da18638490cf"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/floodgate.pw.toml"
-hash = "ece34207ca75882863aa616328af686011fd554595b80a7858ddcc4848d5768d"
+hash = "5e22a9a711566e3db69ea33c99e593ef03141d1476cffc099353e7851896c818"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "24a7013d1624d6c4f2cece7103ff741f16dc6e43bea5a13b261910534b1158cf"
+hash = "78dc765ea28175fd6d62e2da49eca58cfd065463c1e4c777f75c88a5089de7a9"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "3a4bdf4855b2c2bcab556507cd5f61fa8915cc0aa8519821efd09143b24235fb"
+hash = "9f42c26ae35f760c07dc37cc2d60e44ab176840237cd1c628ff76be179f6d5b1"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/sleep.pw.toml"
-hash = "5392159176941083b36eec0dc9e6b03f85f54371490f50fe2c40e98a84e40a9d"
+hash = "f223ea292f82b7456476792df219f65e2b196a36873b3233c9fa1dc00818b0c7"
 metafile = true
 
 [[files]]

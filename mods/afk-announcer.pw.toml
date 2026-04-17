@@ -1,13 +1,13 @@
 name = "AFK Announcer"
-filename = "afk-announcer-v4.0.2.0.jar"
+filename = "afk-announcer-v4.0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/26qk5hxQ/versions/YnRs0DCz/afk-announcer-v4.0.2.0.jar"
+url = "https://cdn.modrinth.com/data/26qk5hxQ/versions/uu80X9lX/afk-announcer-v4.0.2.1.jar"
 hash-format = "sha512"
-hash = "29dbf095a472b46fada0604ce6c1d06794026823627c2230467029f281c4c6137d5e851322314100e7677e74dd07cb97fc43c7deab4fa5c23f1625acde108697"
+hash = "141b08eb32fd87cc93bcc8695ba610d8793abed231314d95749de819c593cf4efc04cb22e03a4caf5b30c7332da373da8c113676cd5b44cdefa7d1b210610830"
 
 [update]
 [update.modrinth]
 mod-id = "26qk5hxQ"
-version = "YnRs0DCz"
+version = "uu80X9lX"
