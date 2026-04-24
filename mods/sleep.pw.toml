@@ -3,11 +3,11 @@ filename = "sleep-v4.3.15.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WTzuSu8P/versions/rSpfAyjr/sleep-v4.3.15.jar"
+url = "https://cdn.modrinth.com/data/WTzuSu8P/versions/tv9mWaHg/sleep-v4.3.15.jar"
 hash-format = "sha512"
-hash = "2a03119b577475c4e86694ef1128ff930bb136fa378ff1e1279bb9c4cf4de80750b0086ccac9db6bb84699dc5a709a987be0f43c0bb4460e5e0dfc0d5a36a33e"
+hash = "c3b69b7e5bd8980c0ab616a5999d27fdefc05c1eff0cca2620662c276fa3139ddcfd4210b3741677032e4a29cbc6923f4778bb3924d4313ae42b7e82cf70ba84"
 
 [update]
 [update.modrinth]
 mod-id = "WTzuSu8P"
-version = "rSpfAyjr"
+version = "tv9mWaHg"

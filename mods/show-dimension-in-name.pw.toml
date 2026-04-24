@@ -3,11 +3,11 @@ filename = "show-dimension-in-name-v2.5.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hXdoMWYD/versions/nYgmYSoL/show-dimension-in-name-v2.5.4.1.jar"
+url = "https://cdn.modrinth.com/data/hXdoMWYD/versions/Rznhlfjm/show-dimension-in-name-v2.5.4.1.jar"
 hash-format = "sha512"
-hash = "bd9c5a554542a7299c363ead02555e0ae020708196481cc63ab35da3de93c38b65f748a8be98553c26f1a7535127069eda8c6a2bf38accfa6f7cba032f4f499e"
+hash = "1f9acf7bdea91f3513e92e17c272fdef5ac86d575852fcc9bd9d7bebaddf1180e266b19650641ee61dae215c44f6232816306ec74ac4db4e01c9f0c90c4a4c60"
 
 [update]
 [update.modrinth]
 mod-id = "hXdoMWYD"
-version = "nYgmYSoL"
+version = "Rznhlfjm"
