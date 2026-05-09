@@ -251,11 +251,6 @@ hash = "cdc66a084161b07f0f07e8a445272862270f1f7be71a8ec94959365395eadc86"
 metafile = true
 
 [[files]]
-file = "mods/geyser.pw.toml"
-hash = "fa99525a794616e93b3d17e1959d5a0962709656377dc00c2c431134d44bdb7e"
-metafile = true
-
-[[files]]
 file = "mods/hobbit-hill-village.pw.toml"
 hash = "10203e5b5b8d4ceaf7513248e1c5074575a01cfbb88ce4dd1cc5df595b1caae3"
 metafile = true
