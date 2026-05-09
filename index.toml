@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "3de89e93b02577680f5b6aace8f5cd604e182cd38fc11760fbc03ba518f71a7f"
+hash = "2a2038d03535953809c97fbf7ae228459aa174979c211b5b183eea7a2a73b971"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "5ea1f0abb93e813eefa238d8017687f3de773c5a4f82c0356f6737ba9570211c"
+hash = "fa99525a794616e93b3d17e1959d5a0962709656377dc00c2c431134d44bdb7e"
 metafile = true
 
 [[files]]
@@ -412,7 +412,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "7e5ee84c0ffd1d2a8ac5b05bade2a27fdc2e73caa431f7860ec440e904c66ae0"
+hash = "6930417928f17fae1151a5e4c5ed439c032fa8163a0115e5b0df2993cedb547c"
 metafile = true
 
 [[files]]
@@ -427,12 +427,12 @@ metafile = true
 
 [[files]]
 file = "mods/sleep.pw.toml"
-hash = "cfc1a96667c1db610081db9b95035fa7d469362e950d150220d377d31359e493"
+hash = "34cc3b3e097619acda36d9acec784a8b74ca2fb0d3434081da844251b2e09415"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "74d55f8ffee46b10c6d4c709c298a72e1233cdd393707c223b3e861d7f104a88"
+hash = "65e38c00a797cb266a734a1cdfc7a294dd917e1b4b1878f5678b5848a4474a63"
 metafile = true
 
 [[files]]
@@ -542,15 +542,15 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "ec05d491b8609e975fc3182e73274fed6f64c606c3a96779efa8b130eee63935"
+hash = "83afef780ef14ddfac303a02b1f450c83fc1f63ff978e89e1e31f9c71c783776"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "a61e5977069e33bcb8792164947c214322b115f85ee64187292a527598a0248a"
+hash = "49ad6d41c076dbde4d1d1664ae98e2e280ebb57785c2751e3b70cab542016ef1"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "083897a9e8b043d2794d0ee05ffb01e54236f7264fabf852efb2bb8d37c5bdc6"
+hash = "79007fa65840c898bc18d75660fe987ac33cc8d9a2e4375818f6270332db097c"
 metafile = true
