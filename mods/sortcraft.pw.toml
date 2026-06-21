@@ -1,13 +1,13 @@
 name = "SortCraft"
-filename = "sortcraft-fabric-1.3.0+1.21.11.jar"
+filename = "sortcraft-fabric-1.3.1+26.1.2.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/GEOKuBos/versions/NQSogvVC/sortcraft-fabric-1.3.0%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/GEOKuBos/versions/IxD7r7Re/sortcraft-fabric-1.3.1%2B26.1.2.jar"
 hash-format = "sha512"
-hash = "e24f7ac11c442025ba970f75c6498fb66e48bc054739f833f005d657593661c7728124e0f974efb9ca68c10bf2baaf7b1cf52e6cc6d3d3cd5d69b346f931d1ea"
+hash = "7e40dd6852e31735036a1896f595c1d4f89056e945ff8329b3b1f544fe7dea7c62dd97da8ad2b568d167d99fc46730730303a2bfe5015d1abe23f064b13d6e4c"
 
 [update]
 [update.modrinth]
 mod-id = "GEOKuBos"
-version = "NQSogvVC"
+version = "IxD7r7Re"

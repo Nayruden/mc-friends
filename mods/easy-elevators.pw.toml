@@ -1,13 +1,13 @@
 name = "Easy Elevators"
-filename = "easyelevators-1.21.11-1.3.jar"
+filename = "easyelevators-26.1.2-1.3.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/3uQY8yaJ/versions/kEG2bdVm/easyelevators-1.21.11-1.3.jar"
+url = "https://cdn.modrinth.com/data/3uQY8yaJ/versions/I3jrIUHf/easyelevators-26.1.2-1.3.jar"
 hash-format = "sha512"
-hash = "6bfab0cfc3c8d7b1462beaa462f24e4b62af68d763acd6704e84c95f99610719bc7f2ffebd28341381c031b821f258c88730fe5f18157f5430b05a25a6f1fa99"
+hash = "ff072c96e18bbea640bf883b71066572bc11f13c9f0edaee48b9aed72f3ef7c8061784a97c24e7e6e6f2df80935cc42ed3d8c833ef058a83ff76ec9f04a5360c"
 
 [update]
 [update.modrinth]
 mod-id = "3uQY8yaJ"
-version = "kEG2bdVm"
+version = "I3jrIUHf"

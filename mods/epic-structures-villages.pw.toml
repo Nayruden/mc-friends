@@ -1,13 +1,13 @@
 name = "Epic Structures: Villages"
-filename = "epic-structures-villages-1.2.0.jar"
+filename = "epic-structures-villages-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/4OeMBkiG/versions/dZbmEMlO/epic-structures-villages-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/4OeMBkiG/versions/YeTKEH5c/epic-structures-villages-1.3.0.jar"
 hash-format = "sha512"
-hash = "e7f2f83cd4ff6326d8282c14d200f729a2a0df44bcda795589d70b8806063cd2d5db0aa1e70aae9c38990d73dd79d079b5c92e4f3f1081f77ebb34239139520c"
+hash = "b5f120100600bcff61bcb586771cb82aefdf36b0ccef9bb418de4df412197ea13ddf7948b0655721c942f81d84ef269c66e017062c720c4f1163e3ef394f9fb1"
 
 [update]
 [update.modrinth]
 mod-id = "4OeMBkiG"
-version = "dZbmEMlO"
+version = "YeTKEH5c"

@@ -1,13 +1,13 @@
 name = "Epic Structures: Witch Huts"
-filename = "Epic Witch Huts v1.2.0 (1.21+).jar"
+filename = "epic-structures-witch-huts-1.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7KOwcKlK/versions/leGotJLm/Epic%20Witch%20Huts%20v1.2.0%20%281.21%2B%29.jar"
+url = "https://cdn.modrinth.com/data/7KOwcKlK/versions/nRl1Bn5j/epic-structures-witch-huts-1.3.0.jar"
 hash-format = "sha512"
-hash = "0ccd218f1e7bc303e0ccaa05d05d65eaa8044541879c96f758e297f7f2b780a34e24137babdd8daf1d95471313383c15a9a660c4b1ad5e64221611b993b30de4"
+hash = "1c70f8d2f7c15fdd3bf446a2abe65bca8b280e4268c2d3cc13724a8eaa077fc923a6028b39ccee9924b2507ead6e33629e4232b744aad2c11a99f6fa040c466f"
 
 [update]
 [update.modrinth]
 mod-id = "7KOwcKlK"
-version = "leGotJLm"
+version = "nRl1Bn5j"
