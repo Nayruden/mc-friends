@@ -1,13 +1,13 @@
 name = "Structures+"
-filename = "structures+-2.0-all.jar"
+filename = "structures+-2.3-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6WwYmxGF/versions/Vfz5kSKu/structures%2B-2.0-all.jar"
+url = "https://cdn.modrinth.com/data/6WwYmxGF/versions/5igI6Fou/structures%2B-2.3-all.jar"
 hash-format = "sha512"
-hash = "d052ce24d20d037ed55c81b5bdab32db0d4eebac6323489b60af83905736bb7aed188dd91abe7b86116d4c18395604deafee927854b7486eb27e6bb5464582e8"
+hash = "59d2b5edbb91dc58982eafc0f930abc50d2eeb8428e8a683788ea5c50aabb77f864b0011007ea518d3805cf8829b3487c058a809c2fcc9bc82ad648e82c5f8cb"
 
 [update]
 [update.modrinth]
 mod-id = "6WwYmxGF"
-version = "Vfz5kSKu"
+version = "5igI6Fou"

@@ -1,13 +1,13 @@
 name = "Show Dimension In Name"
-filename = "show-dimension-in-name-v2.5.4.1.jar"
+filename = "show-dimension-in-name-v2.5.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hXdoMWYD/versions/Rznhlfjm/show-dimension-in-name-v2.5.4.1.jar"
+url = "https://cdn.modrinth.com/data/hXdoMWYD/versions/2mpOJI35/show-dimension-in-name-v2.5.5.jar"
 hash-format = "sha512"
-hash = "1f9acf7bdea91f3513e92e17c272fdef5ac86d575852fcc9bd9d7bebaddf1180e266b19650641ee61dae215c44f6232816306ec74ac4db4e01c9f0c90c4a4c60"
+hash = "4e379ff9c846b135f6900eeee839262d966569c01979330b09765b193985db11ee0a9a82a40496b47ef1029d391d74ee7c66926e588422c089d3602180262d54"
 
 [update]
 [update.modrinth]
 mod-id = "hXdoMWYD"
-version = "Rznhlfjm"
+version = "2mpOJI35"

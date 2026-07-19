@@ -3,11 +3,11 @@ filename = "ruins-and-towers-0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lgHD5Cjz/versions/yhtj83mv/ruins-and-towers-0.3.jar"
+url = "https://cdn.modrinth.com/data/lgHD5Cjz/versions/kYjzjSwW/ruins-and-towers-0.3.jar"
 hash-format = "sha512"
-hash = "c1b9e83d9267ae67aecfd539c5e7d08dcd3fa2895b1480ec8d5504f1a9e4c43cc90e6ad012816ff50bc40b24cc441791d943d54306c55ad3085c07a193adeb0f"
+hash = "bce9bfa1c1e02ec1a47d6a8bfc17f63f4b45a2f8e6b5916d643b290a349b8a0c2c72121061f4c34979f6841a56ce832f7a4365cf56c09fe7eb6ddaaddb11f345"
 
 [update]
 [update.modrinth]
 mod-id = "lgHD5Cjz"
-version = "yhtj83mv"
+version = "kYjzjSwW"

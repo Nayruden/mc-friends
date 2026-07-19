@@ -1,13 +1,13 @@
 name = "Dungeons and Taverns Enchant Disabler"
-filename = "DnT 5.1 Enchant Disabler.zip"
+filename = "Enchant Disabler for DnT 5.3.0.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/jr7t09l6/versions/7UGFMf9A/DnT%205.1%20Enchant%20Disabler.zip"
+url = "https://cdn.modrinth.com/data/jr7t09l6/versions/cLq5AoVs/Enchant%20Disabler%20for%20DnT%205.3.0.zip"
 hash-format = "sha512"
-hash = "6c9393c7cfb5af3073e52c83e625044f9d485fb6d2dea8fa5c3d9f0983222175b56571e4df8ccb044be1e71c6a930b0346428f068ec62d66c79936b2426c7abd"
+hash = "1dc3f753967b4c92d17f70dfb2b545e5944cb15951d908703cc71615dcd3367903dcb4b8367005ee18cb8fb2d8f1b45166bc606049e778ce1b387d43e75f44c9"
 
 [update]
 [update.modrinth]
 mod-id = "jr7t09l6"
-version = "7UGFMf9A"
+version = "cLq5AoVs"

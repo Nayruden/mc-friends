@@ -1,13 +1,13 @@
 name = "TabTPS"
-filename = "tabtps-fabric-mc26.1.2-1.3.31.jar"
+filename = "tabtps-fabric-mc26.2-1.4.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/cUhi3iB2/versions/33SksxUf/tabtps-fabric-mc26.1.2-1.3.31.jar"
+url = "https://cdn.modrinth.com/data/cUhi3iB2/versions/Do22roSe/tabtps-fabric-mc26.2-1.4.1.jar"
 hash-format = "sha512"
-hash = "7964351b21832143dc5c8d6b6c1e10aaad57da3931522d0c80f3c95ee6cb596c34ead460a2a5f81bb2feca38350bda9fb2b572e75c6bd839e178f17f7731ebb1"
+hash = "fde79199d5079fe91259fdf0ce2a46c2127c77fc2c794a679ba53232ba700fdee12986ca61a4a73cf93d3999225fb7f92e9cb59b094e1076cba22a064ed9d91a"
 
 [update]
 [update.modrinth]
 mod-id = "cUhi3iB2"
-version = "33SksxUf"
+version = "Do22roSe"

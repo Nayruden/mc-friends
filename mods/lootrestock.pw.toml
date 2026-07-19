@@ -1,0 +1,13 @@
+name = "LootRestock"
+filename = "LootRestock-1.0.2-26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ddaWpjKK/versions/UiD1WkaU/LootRestock-1.0.2-26.2.jar"
+hash-format = "sha512"
+hash = "6b50ccb501d72dd1ac269a22a980a7a6686eda37f1eee39a19f0fb894e8fcbbb46a3c2c78cd52f8ba7f0623f0c61aa46958a7959ccfb856e7b55aa20dc7df805"
+
+[update]
+[update.modrinth]
+mod-id = "ddaWpjKK"
+version = "UiD1WkaU"

@@ -1,13 +1,13 @@
 name = "Structures"
-filename = "structures-3.0-all.jar"
+filename = "strucutres-3.4-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6lxFhM2b/versions/Zv99cL7f/structures-3.0-all.jar"
+url = "https://cdn.modrinth.com/data/6lxFhM2b/versions/ycV6PaOI/strucutres-3.4-all.jar"
 hash-format = "sha512"
-hash = "28702ae8a4c3d92e1078b9da02e729c0e1fbc9a34592e3718838861099d1227a87dcc24235575f5d3ef1d45e2c42cc2b77a84e6dd3edef4cd1b670a63619497e"
+hash = "4006a3298cbc56889b27ef633abf46f12c8facd70fffb8094cc8c9c474e0daad5805eed6236595ad13390158964112b2cc62544c23905f7a8674571fb207e51f"
 
 [update]
 [update.modrinth]
 mod-id = "6lxFhM2b"
-version = "Zv99cL7f"
+version = "ycV6PaOI"
