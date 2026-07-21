@@ -446,11 +446,6 @@ hash = "9d2d6dfc69a39361bb5d9e30c6c35c2ca7b8121ac0b66fad29bcfa81c40b0738"
 metafile = true
 
 [[files]]
-file = "mods/voxyserver.pw.toml"
-hash = "5af5b37765d2ba26a6e4ec8be0dd8bd6215ce0b05d98dc6dc9b3050341d94e70"
-metafile = true
-
-[[files]]
 file = "mods/wits.pw.toml"
 hash = "660ef52a9f30cfc4b3592a6b42cbcf30461602801a993967ae8b27ec21273cd4"
 metafile = true
