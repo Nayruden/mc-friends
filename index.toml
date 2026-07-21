@@ -161,11 +161,6 @@ hash = "6adce6422e74091638dbd7872270ee58d9a22dc18340580f809cc50c739e0d4f"
 metafile = true
 
 [[files]]
-file = "mods/express-carts.pw.toml"
-hash = "5c5a1ef949ac28eae1062e51971ec93cc0606cc78a8d109af7d3bf3acfba2940"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "dc5490cc1a9231b0d32ec3e72f9d34279fc1d1ff6fb5a7d288b1f36faec0a6a0"
 metafile = true
