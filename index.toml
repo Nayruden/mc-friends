@@ -76,11 +76,6 @@ hash = "eb5c8432a7acfef7e7a0760bef5730a31ce990b0bdde67d527ef8a157777c83b"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "ce280969fa45ec982f36067934c36f76098dcf8b0c71bab46691e6b5b8e9664e"
-metafile = true
-
-[[files]]
 file = "mods/dungeons+.pw.toml"
 hash = "c6b39a896913756bb3723bc316569ed882f7e03108d1e700aa1a1e265f333260"
 metafile = true
