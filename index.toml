@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "datapacks/towns-and-towers.pw.toml"
-hash = "ee897a6fcf610957bc1be6a04b5b2227660def9bbf3cb566bb799001246f3d72"
+hash = "0c96b5bd496fefece5503443a3c0801d751f644df0ec33854838cf48ac28138c"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "0929120091edcf4281d0975ff42d8176fc01920ffa8493c5834f8296451bb5f9"
+hash = "99c470d7645ce0b117be78844b166ef0216d6f57b3fc3e854d839f75c6510590"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "26ce11cf4109291613864bc4f1aed289d979f4916008f15751dccaf79e50bab3"
+hash = "7310443780c79a772085f05e130a3a40290dccc3d66907825e8a47f8a6d8421b"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "875fedbaf63c61761a7fa8503d6640644e156482af1703eba40be8a742f26550"
+hash = "bac5b26bee8d97112ff750fd067392217ab6aa1cb9a8316f54a85f4f52793caa"
 metafile = true
 
 [[files]]
@@ -407,12 +407,12 @@ metafile = true
 
 [[files]]
 file = "mods/structures+.pw.toml"
-hash = "bcb32b01edf28b691a6194a4cfafaab155632535e658273e8b3923a80993ece4"
+hash = "90c8aca5d545bb3b63f323c9442c2381f44f50b0d6c41a9994fd02d277d0d6a2"
 metafile = true
 
 [[files]]
 file = "mods/structures-mod.pw.toml"
-hash = "32d60efc276eacee3bdb128aa817336a1bccebddf8378d160b2c14e85b73f1f9"
+hash = "ad76f2cb30e42eb85a78ee33697fdcc8a0e2f0c082233321aa71061fbea558df"
 metafile = true
 
 [[files]]
@@ -447,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/voxyserver.pw.toml"
-hash = "5af5b37765d2ba26a6e4ec8be0dd8bd6215ce0b05d98dc6dc9b3050341d94e70"
+hash = "25c2c80dbf4b59b34d0f1bfe284f1dcbf58a7912ed2b548cffc1d9ad33f15e56"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeroplus.pw.toml"
-hash = "7f6392d700edf012a7a70ef702954ea72cdfe65cc70126f597b5fd4f8739a558"
+hash = "c89aaca92c5979f49b6a5b69e29df29fd5f5b03dc632b232da1563a479e6af00"
 metafile = true
 
 [[files]]
