@@ -60,7 +60,6 @@
 "resourcepacks/fa-player-extension.pw.toml" = "client-side"
 "resourcepacks/fresh-animations-extensions.pw.toml" = "client-side"
 "resourcepacks/fresh-animations.pw.toml" = "client-side"
-"resourcepacks/smith-trim-palettes.pw.toml" = "our own resource pack (tools/trim_palettes.py), from client-pack/smith-trim-palettes.zip"
 "shaderpacks/complementary-unbound.pw.toml" = "client-side"
 
 [sides]

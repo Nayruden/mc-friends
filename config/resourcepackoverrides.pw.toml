@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/Nayruden/mc-friends/refs/heads/public/client-pack/resourcepackoverrides.json"
 hash-format = "sha256"
-hash = "22c31dc25f8fa5a6ac36725e91f43c78e0ecfe8b51e539bb864620d7d843a80d"
+hash = "cea95c2d961da56fe3159dcacdb6bd5b9cbcfd3d5cc7d11ee0a4bd315b36daba"
