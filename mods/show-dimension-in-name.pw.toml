@@ -1,6 +1,6 @@
 name = "Show Dimension In Name"
 filename = "show-dimension-in-name-v2.5.5.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/hXdoMWYD/versions/2mpOJI35/show-dimension-in-name-v2.5.5.jar"

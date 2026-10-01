@@ -1,6 +1,6 @@
 name = "Dungeons+"
 filename = "dungeons+-1.12.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/nHORcEHd/versions/VT75yixL/dungeons%2B-1.12.0.jar"

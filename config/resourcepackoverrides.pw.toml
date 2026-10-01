@@ -1,0 +1,8 @@
+name = "Resource Pack Overrides config"
+filename = "resourcepackoverrides.json"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Nayruden/mc-friends/refs/heads/public/client-pack/resourcepackoverrides.json"
+hash-format = "sha256"
+hash = "cea95c2d961da56fe3159dcacdb6bd5b9cbcfd3d5cc7d11ee0a4bd315b36daba"

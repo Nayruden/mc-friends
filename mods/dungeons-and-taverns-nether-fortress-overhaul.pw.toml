@@ -1,6 +1,6 @@
 name = "Dungeons and Taverns Nether Fortress Overhaul"
 filename = "dungeons-and-taverns-nether-fortress-overhaul-v3.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/8Dbnvm77/versions/3TBxftsp/dungeons-and-taverns-nether-fortress-overhaul-v3.1.jar"

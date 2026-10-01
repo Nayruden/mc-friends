@@ -1,6 +1,6 @@
 name = "AFK Announcer"
 filename = "afk-announcer-v4.0.3.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/26qk5hxQ/versions/l0bqmVuj/afk-announcer-v4.0.3.jar"

@@ -1,6 +1,6 @@
 name = "Dungeons and Taverns Ocean Monument Overhaul"
 filename = "dungeons-and-taverns-ocean-monument-overhaul-2.2.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/z6GJ3ycD/versions/pSv7WyCj/dungeons-and-taverns-ocean-monument-overhaul-2.2.1.jar"

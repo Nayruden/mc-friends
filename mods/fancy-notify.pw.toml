@@ -1,0 +1,13 @@
+name = "Fancy Notify | Better Toasts"
+filename = "fancynotify-1.1.0-fabric-26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UTX2b9kL/versions/Q7jbAo2W/fancynotify-1.1.0-fabric-26.2.jar"
+hash-format = "sha512"
+hash = "5a7ba823b9d75c8eb38028b80ce0d904e88e959e5ad3f70eddcae8dd44105b0fcd0f3eac599b5f69c6046ccfb843015cfb95eb23c82d8eb295c07ff310d1bbe6"
+
+[update]
+[update.modrinth]
+mod-id = "UTX2b9kL"
+version = "Q7jbAo2W"

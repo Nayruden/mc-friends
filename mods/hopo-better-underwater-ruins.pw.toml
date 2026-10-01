@@ -1,6 +1,6 @@
 name = "Hopo Better Underwater Ruins"
 filename = "HopoBetterUnderwaterRuins-[26.2]-1.2.8.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/BuWCQzqf/versions/yQi8lOKM/HopoBetterUnderwaterRuins-%5B26.2%5D-1.2.8.jar"

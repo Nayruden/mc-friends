@@ -1,6 +1,6 @@
 name = "Dungeons and Taverns Jungle Temple Overhaul"
 filename = "dungeons-and-taverns-jungle-temple-overhaul-v2.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/oHjYCS0f/versions/pvrni7rg/dungeons-and-taverns-jungle-temple-overhaul-v2.1.jar"

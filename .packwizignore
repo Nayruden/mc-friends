@@ -2,3 +2,7 @@
 # See https://git-scm.com/docs/gitignore
 
 .editorconfig
+
+# The CraftLabs client's instance zips and pack_variants.py apply's own files (not pack files)
+client-pack/
+instances/

@@ -1,0 +1,18 @@
+name = "Camera Overhaul"
+filename = "CameraOverhaul-v2.1.2-fabric+mc[26.2].jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/m0oRwcZx/versions/gjQzjTnd/CameraOverhaul-v2.1.2-fabric%2Bmc%5B26.2%5D.jar"
+hash-format = "sha512"
+hash = "a89bdf0f980e7ae0d032d4528baae9f1ff20d38b61ac286f56617cec4dcbd748787db53302b2d1f724efb367ba9150bad7e307893cfa2c83417e0d38458f0b8b"
+
+[update]
+[update.modrinth]
+mod-id = "m0oRwcZx"
+version = "gjQzjTnd"
+
+[option]
+optional = true
+default = true
+description = "Camera Overhaul - camera sway/tilt"

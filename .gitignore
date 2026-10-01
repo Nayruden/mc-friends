@@ -3,3 +3,6 @@
 
 # Exclude exported Modrinth modpacks
 *.mrpack
+
+# ... but the CraftLabs client's instance zips (Prism imports them from GitHub)
+!instances/*.zip

@@ -1,6 +1,6 @@
 name = "Dungeons and Taverns Desert Temple Overhaul"
 filename = "dungeons-and-taverns-desert-temple-overhaul-v2.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/7JTDDmRT/versions/5CxIf8Tt/dungeons-and-taverns-desert-temple-overhaul-v2.1.jar"

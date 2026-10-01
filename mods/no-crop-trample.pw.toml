@@ -1,6 +1,6 @@
 name = "No Crop Trample"
 filename = "no-crop-trample-2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/ovK1G5ym/versions/J3ioEyyu/no-crop-trample-2.jar"

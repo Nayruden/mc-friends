@@ -1,6 +1,6 @@
 name = "Dungeons and Taverns Woodland Mansion Overhaul"
 filename = "dungeons-and-taverns-woodland-mansion-overhaul-2.1.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/3GfxWFCy/versions/zg7f1Hac/dungeons-and-taverns-woodland-mansion-overhaul-2.1.jar"

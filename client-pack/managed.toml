@@ -1,0 +1,157 @@
+# Written by tools/pack_variants.py apply (the Smith family server repo, pack/meta/variants.toml variant "craftlabs"):
+# don't edit, re-run it. This pack is also the CraftLabs client pack: packwiz-installer gives a client the entries
+# with side "client" or "both" and the server those with "server" or "both". apply adds the client-side entries
+# under [managed] (the server never installs them) and sets each server entry's side as [sides] says: "both" where
+# a client needs the mod too, "server" where it doesn't. The server's install stays exactly what it was.
+
+[managed]
+"config/resourcepackoverrides.pw.toml" = "Resource Pack Overrides' config (variants.toml resourcepacks), from client-pack/resourcepackoverrides.json"
+"mods/3dskinlayers.pw.toml" = "client-side"
+"mods/accurate-block-placement-reborn.pw.toml" = "client-side"
+"mods/ambientsounds.pw.toml" = "client-side"
+"mods/baguettelib.pw.toml" = "library for particular-reforged"
+"mods/better-advancements.pw.toml" = "client-side"
+"mods/bridging-mod.pw.toml" = "client-side"
+"mods/cameraoverhaul.pw.toml" = "client-side"
+"mods/completionists-index.pw.toml" = "client-side"
+"mods/continuity.pw.toml" = "client-side"
+"mods/controlify.pw.toml" = "client-side"
+"mods/controlling.pw.toml" = "client-side"
+"mods/coolrain.pw.toml" = "client-side"
+"mods/cosy-critters.pw.toml" = "client-side"
+"mods/creativecore.pw.toml" = "client-side"
+"mods/detail-armor-bar-reconstructed.pw.toml" = "client-side"
+"mods/eclipseui.pw.toml" = "client-side"
+"mods/enchantment-descriptions.pw.toml" = "client-side"
+"mods/entity-model-features.pw.toml" = "client-side"
+"mods/entityculling.pw.toml" = "client-side"
+"mods/entitytexturefeatures.pw.toml" = "client-side"
+"mods/fancy-notify.pw.toml" = "client-side"
+"mods/fancy-toasts.pw.toml" = "client-side"
+"mods/footprintparticle.pw.toml" = "client-side"
+"mods/immediatelyfast.pw.toml" = "client-side"
+"mods/immersive-overlays.pw.toml" = "client-side"
+"mods/inventory-profiles-next.pw.toml" = "client-side"
+"mods/iris.pw.toml" = "client-side"
+"mods/item-descriptions.pw.toml" = "client-side"
+"mods/lambdabettergrass.pw.toml" = "client-side"
+"mods/lambdynamiclights.pw.toml" = "client-side"
+"mods/libipn.pw.toml" = "client-side"
+"mods/malilib.pw.toml" = "client-side"
+"mods/mc2-interactive-foliage.pw.toml" = "client-side"
+"mods/minihud.pw.toml" = "client-side"
+"mods/mouse-tweaks.pw.toml" = "client-side"
+"mods/nicer-skies.pw.toml" = "client-side"
+"mods/not-enough-animations.pw.toml" = "client-side"
+"mods/particle-rain.pw.toml" = "client-side"
+"mods/particular-reforged.pw.toml" = "client-side"
+"mods/presence-footsteps.pw.toml" = "client-side"
+"mods/prickle.pw.toml" = "library for enchantment-descriptions"
+"mods/resource-pack-overrides.pw.toml" = "client-side"
+"mods/searchables.pw.toml" = "client-side"
+"mods/sodium-client.pw.toml" = "ours instead of the server's sodium-fabric-0.9.2+mc26.2.jar (prefer-ours); ours is pack/mods/sodium.pw.toml"
+"mods/spyglass-astronomy.pw.toml" = "client-side"
+"mods/stylish-effects.pw.toml" = "client-side"
+"mods/sway.pw.toml" = "client-side"
+"mods/visuality.pw.toml" = "client-side"
+"mods/wakes.pw.toml" = "client-side"
+"mods/yacl.pw.toml" = "library for bridging-mod, controlify, zoomify"
+"mods/zoomify.pw.toml" = "client-side"
+"resourcepacks/fa-player-extension.pw.toml" = "client-side"
+"resourcepacks/fresh-animations-extensions.pw.toml" = "client-side"
+"resourcepacks/fresh-animations.pw.toml" = "client-side"
+"shaderpacks/complementary-unbound.pw.toml" = "client-side"
+
+[sides]
+"datapacks/dnt-enchant-disabler.pw.toml" = { side = "server", why = "a data pack: only the server loads it" }
+"datapacks/towns-and-towers.pw.toml" = { side = "server", why = "a data pack: only the server loads it" }
+"mods/abridged.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/adorabuild-structures.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/afk-announcer.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/alternate-current.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/appleskin.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/architectury-api.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/bluemap.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/bmarker.pw.toml" = { side = "server", why = "skip: BlueMap Marker is a server command plugin and hard-depends on BlueMap, which stays server-side; a client with it doesn't start. Modrinth gives no sides for it." }
+"mods/c2me-fabric.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/chunky.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/cloth-config.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/collective.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/disconnect-packet-fix.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/dungeons+.pw.toml" = { side = "server", why = "server-side in our pack (as decubed-dungeons)" }
+"mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/dungeons-and-taverns-pillager-outpost-overhaul.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/dungeons-and-taverns-stronghold-overhaul.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/dungeons-and-taverns-swamp-hut-overhaul.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/dungeons-and-taverns-woodland-mansion-overhaul.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/dungeons-and-taverns.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/easy-elevators.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/epic-structures-villages.pw.toml" = { side = "server", why = "Modrinth: client optional, server required; its jar is data and server code only (no client assets or entrypoint)" }
+"mods/epic-structures-witch-huts.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/essential-commands.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/explorify.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/express-carts.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/fabric-api.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/fabric-language-kotlin.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/ferrite-core.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/floodgate.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/forge-config-api-port.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/formations-nether.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/formations-overworld.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/formations.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/geophilic.pw.toml" = { side = "server", why = "Modrinth: client optional, server required; its jar is data and server code only (no client assets or entrypoint)" }
+"mods/hobbit-hill-village.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/hopo-better-mineshaft.pw.toml" = { side = "server", why = "Modrinth: client optional, server required; its jar is data and server code only (no client assets or entrypoint)" }
+"mods/hopo-better-ruined-portals.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/hopo-better-underwater-ruins.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/jade.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/leaves-be-gone.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/ledger.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/lios-overhauled-villages.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/lios-seafaring-dungeons.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/lithium.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/lithostitched.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/luckperms.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/mes-moogs-end-structures.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/midnightlib.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/mns-moogs-nether-structures.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/moogs-structure-lib.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/moogs-voyager-structures.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/mss-moogs-soaring-structures.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/no-crop-trample.pw.toml" = { side = "server", why = "Modrinth: client optional, server required; its jar is data and server code only (no client assets or entrypoint)" }
+"mods/noisiumforked.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/puzzles-lib.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/quick-right-click.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/rei.pw.toml" = { side = "both", why = "Modrinth: client optional, server optional: works on a client alone" }
+"mods/repurposed-structures-fabric.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/resourceful-config.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/ruins-and-towers.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/scalablelux.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/servercore.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/servux.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/show-dimension-in-name.pw.toml" = { side = "server", why = "Modrinth: client optional, server required; its jar is data and server code only (no client assets or entrypoint)" }
+"mods/silk.pw.toml" = { side = "server", why = "Modrinth: client optional, server optional; a library: only when a client mod needs it" }
+"mods/sleep.pw.toml" = { side = "server", why = "Modrinth: client optional, server required; its jar is data and server code only (no client assets or entrypoint)" }
+"mods/sodium.pw.toml" = { side = "server", why = "clients get ours instead, mods/sodium-client.pw.toml: ours instead of the server's sodium-fabric-0.9.2+mc26.2.jar (prefer-ours)" }
+"mods/sortcraft.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/sparsestructures.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/spiral-tower-villages.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/structory-towers.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/structory.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/structure-layout-optimizer.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/structures+.pw.toml" = { side = "server", why = "Modrinth: client optional, server required; its jar is data and server code only (no client assets or entrypoint)" }
+"mods/structures-mod.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/tabtps.pw.toml" = { side = "server", why = "Modrinth: client unsupported, server required" }
+"mods/tectonic.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/terralith.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/trek.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/vmp-fabric.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/voxy.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/voxyserver.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/wits.pw.toml" = { side = "server", why = "server-side in our pack" }
+"mods/xaeros-minimap.pw.toml" = { side = "both", why = "both-side in our pack" }
+"mods/xaeros-world-map.pw.toml" = { side = "both", why = "both-side in our pack" }

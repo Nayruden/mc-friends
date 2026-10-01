@@ -1,6 +1,6 @@
 name = "Dungeons and Taverns Enchant Disabler"
 filename = "Enchant Disabler for DnT 5.3.0.zip"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/jr7t09l6/versions/cLq5AoVs/Enchant%20Disabler%20for%20DnT%205.3.0.zip"

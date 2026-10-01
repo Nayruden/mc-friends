@@ -1,6 +1,6 @@
 name = "Structures"
 filename = "structures-3.5-all.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/6lxFhM2b/versions/uiPXFq7N/structures-3.5-all.jar"
