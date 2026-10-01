@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/resourcepackoverrides.pw.toml"
-hash = "1d0615fca195a917e34d823c41182205cf318a35c05f818c0e87b3ddb02327c4"
+hash = "37350afbad863a63273ebed979dda6db3c2896ba662f2cd810c5d9b66b254b6a"
 metafile = true
 
 [[files]]
@@ -743,6 +743,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "b367782b9eac5da6b5c9ab51fcba6e4f2610da85b6f98280db38aba48d9972a3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/smith-trim-palettes.pw.toml"
+hash = "cfd6f72e0b9629aed6f76098d5bc6676b428be065c2559f247e3dbbd9420cd9d"
 metafile = true
 
 [[files]]

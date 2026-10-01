@@ -5,7 +5,8 @@
   "default_packs": [
     "file/FreshAnimations_v1.10.5.zip",
     "file/FA+All_Extensions-v1.9.2.zip",
-    "file/FA+Player-v1.1.zip"
+    "file/FA+Player-v1.1.zip",
+    "file/smith-trim-palettes.zip"
   ],
   "default_overrides": {
     "force_compatible": true
@@ -22,6 +23,11 @@
       "fixed_position": true
     },
     "file/FA+Player-v1.1.zip": {
+      "required": true,
+      "default_position": "TOP",
+      "fixed_position": true
+    },
+    "file/smith-trim-palettes.zip": {
       "required": true,
       "default_position": "TOP",
       "fixed_position": true

@@ -1,0 +1,8 @@
+name = "smith-trim-palettes"
+filename = "smith-trim-palettes.zip"
+side = "client"
+
+[download]
+url = "https://raw.githubusercontent.com/Nayruden/mc-friends/refs/heads/public/client-pack/smith-trim-palettes.zip"
+hash-format = "sha256"
+hash = "a0d07c432461e18b082ac232b5c8c37d347ced1dca4615d4a98fc68ac53c9710"

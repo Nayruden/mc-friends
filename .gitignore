@@ -6,3 +6,6 @@
 
 # ... but the CraftLabs client's instance zips (Prism imports them from GitHub)
 !instances/*.zip
+
+# ... and the CraftLabs client's files that client-side metafiles download from GitHub (a zip among them)
+!client-pack/*
